@@ -1,0 +1,936 @@
+Home_team,Away_team,HomeTeamGoal,AwayTeamGoal,Result,hometeam_pts,hometeam_ppg,awayteam_pts,awayteam_ppg,Away_G_save%,Away_p_save%,Home_G_save%,Home_p_save%
+Philadelphia,Minnesota Utd,1,1,Tie,67,1.97,48,1.41,71.3,20.0,82.5,20.0
+Columbus Crew,Vancouver,4,0,Win,46,1.35,43,1.26,64.4,28.6,73.2,0.0
+Los Angeles FC,Colorado Rapids,3,0,Win,67,1.97,43,1.26,70.3,9.1,70.7,0.0
+Dallas,Toronto,1,1,Tie,53,1.56,34,1.0,65.8,25.0,75.9,28.6
+Austin,Cincinnati,5,0,Win,56,1.65,49,1.44,69.6,30.0,72.7,28.6
+DC United,Charlotte,3,0,Win,27,0.79,42,1.24,69.2,0.0,64.0,40.0
+Inter Miami,Chicago Fire,0,0,Tie,48,1.41,39,1.15,67.7,0.0,66.7,0.0
+SJ Earthquakes,New York RB,1,3,Loss,35,1.03,53,1.56,65.5,0.0,66.1,0.0
+Portland,New England,2,2,Tie,46,1.35,42,1.24,74.1,33.3,69.9,50.0
+Orlando City,CF Montreal,2,0,Win,48,1.41,65,1.91,64.2,0.0,66.4,0.0
+Atlanta Utd,Sporting KC,3,1,Win,40,1.18,40,1.18,63.8,33.3,61.6,0.0
+LA Galaxy,New York City,1,0,Win,50,1.47,55,1.62,66.4,0.0,68.1,14.3
+Houston Dynamo,Real Salt Lake,0,0,Tie,36,1.06,47,1.38,73.5,33.3,69.3,14.3
+Seattle,Nashville SC,0,1,Loss,41,1.21,50,1.47,76.7,22.2,74.8,14.3
+New England,Dallas,1,0,Win,42,1.24,53,1.56,75.9,28.6,74.1,33.3
+Toronto,New York RB,1,4,Loss,34,1.0,53,1.56,65.5,0.0,65.8,25.0
+Sporting KC,Houston Dynamo,1,0,Win,40,1.18,36,1.06,69.3,14.3,63.8,33.3
+CF Montreal,Philadelphia,1,2,Loss,65,1.91,67,1.97,82.5,20.0,64.2,0.0
+SJ Earthquakes,Columbus Crew,3,3,Tie,35,1.03,46,1.35,73.2,0.0,66.1,0.0
+Chicago Fire,Orlando City,0,0,Tie,39,1.15,48,1.41,66.4,0.0,67.7,0.0
+Cincinnati,DC United,0,1,Loss,49,1.44,27,0.79,64.0,40.0,69.6,30.0
+Colorado Rapids,Atlanta Utd,3,0,Win,43,1.26,40,1.18,61.6,0.0,70.3,9.1
+Minnesota Utd,Nashville SC,1,1,Tie,48,1.41,50,1.47,76.7,22.2,71.3,20.0
+Real Salt Lake,Seattle,1,0,Win,47,1.38,41,1.21,74.8,14.3,73.5,33.3
+Vancouver,New York City,0,0,Tie,43,1.26,55,1.62,66.4,0.0,64.4,28.6
+Charlotte,LA Galaxy,0,1,Loss,42,1.24,50,1.47,68.1,14.3,69.2,0.0
+Austin,Inter Miami,5,1,Win,56,1.65,48,1.41,66.7,0.0,72.7,28.6
+Los Angeles FC,Portland,1,1,Tie,67,1.97,46,1.35,69.9,50.0,70.7,0.0
+New York City,CF Montreal,4,1,Win,55,1.62,65,1.91,64.2,0.0,66.4,0.0
+Columbus Crew,Toronto,2,1,Win,46,1.35,34,1.0,65.8,25.0,73.2,0.0
+Inter Miami,Los Angeles FC,0,2,Loss,48,1.41,67,1.97,70.7,0.0,66.7,0.0
+Seattle,LA Galaxy,3,2,Win,41,1.21,50,1.47,68.1,14.3,74.8,14.3
+Houston Dynamo,Vancouver,2,1,Win,36,1.06,43,1.26,64.4,28.6,69.3,14.3
+DC United,Chicago Fire,0,2,Loss,27,0.79,39,1.15,67.7,0.0,64.0,40.0
+New England,Real Salt Lake,2,3,Loss,42,1.24,47,1.38,73.5,33.3,74.1,33.3
+Orlando City,Cincinnati,1,2,Loss,48,1.41,49,1.44,69.6,30.0,66.4,0.0
+Philadelphia,SJ Earthquakes,2,0,Win,67,1.97,35,1.03,66.1,0.0,82.5,20.0
+Dallas,Nashville SC,2,0,Win,53,1.56,50,1.47,76.7,22.2,75.9,28.6
+Colorado Rapids,Sporting KC,2,0,Win,43,1.26,40,1.18,63.8,33.3,70.3,9.1
+Portland,Austin,1,0,Win,46,1.35,56,1.65,72.7,28.6,69.9,50.0
+Atlanta Utd,Charlotte,2,1,Win,40,1.18,42,1.24,69.2,0.0,61.6,0.0
+New York RB,Minnesota Utd,0,1,Loss,53,1.56,48,1.41,71.3,20.0,65.5,0.0
+Cincinnati,Inter Miami,3,1,Win,49,1.44,48,1.41,66.7,0.0,69.6,30.0
+New York City,Philadelphia,0,2,Loss,55,1.62,67,1.97,82.5,20.0,66.4,0.0
+Toronto,DC United,2,1,Win,34,1.0,27,0.79,64.0,40.0,65.8,25.0
+LA Galaxy,Orlando City,0,1,Loss,50,1.47,48,1.41,66.4,0.0,68.1,14.3
+Atlanta Utd,CF Montreal,3,3,Tie,40,1.18,65,1.91,64.2,0.0,61.6,0.0
+Chicago Fire,Sporting KC,3,1,Win,39,1.15,40,1.18,63.8,33.3,67.7,0.0
+Charlotte,New England,3,1,Win,42,1.24,42,1.24,74.1,33.3,69.2,0.0
+Minnesota Utd,SJ Earthquakes,1,0,Win,48,1.41,35,1.03,66.1,0.0,71.3,20.0
+Dallas,Portland,4,1,Win,53,1.56,46,1.35,69.9,50.0,75.9,28.6
+Houston Dynamo,Colorado Rapids,1,1,Tie,36,1.06,43,1.26,70.3,9.1,69.3,14.3
+Real Salt Lake,Nashville SC,2,1,Win,47,1.38,50,1.47,76.7,22.2,73.5,33.3
+New York RB,Columbus Crew,1,1,Tie,53,1.56,46,1.35,73.2,0.0,65.5,0.0
+Austin,Seattle,1,1,Tie,56,1.65,41,1.21,74.8,14.3,72.7,28.6
+Los Angeles FC,Vancouver,3,1,Win,67,1.97,43,1.26,64.4,28.6,70.7,0.0
+Charlotte,Cincinnati,2,0,Win,42,1.24,49,1.44,69.6,30.0,69.2,0.0
+Sporting KC,Real Salt Lake,1,0,Win,40,1.18,47,1.38,73.5,33.3,63.8,33.3
+Portland,Orlando City,1,1,Tie,46,1.35,48,1.41,66.4,0.0,69.9,50.0
+Chicago Fire,Dallas,0,0,Tie,39,1.15,53,1.56,75.9,28.6,67.7,0.0
+Cincinnati,CF Montreal,3,4,Loss,49,1.44,65,1.91,64.2,0.0,69.6,30.0
+Toronto,New York City,2,1,Win,34,1.0,55,1.62,66.4,0.0,65.8,25.0
+Columbus Crew,Nashville SC,0,1,Loss,46,1.35,50,1.47,76.7,22.2,73.2,0.0
+DC United,Atlanta Utd,0,1,Loss,27,0.79,40,1.18,61.6,0.0,64.0,40.0
+New England,New York RB,0,1,Loss,42,1.24,53,1.56,65.5,0.0,74.1,33.3
+Orlando City,Los Angeles FC,2,4,Loss,48,1.41,67,1.97,70.7,0.0,66.4,0.0
+Philadelphia,Charlotte,2,0,Win,67,1.97,42,1.24,69.2,0.0,82.5,20.0
+SJ Earthquakes,Austin,2,2,Tie,35,1.03,56,1.65,72.7,28.6,66.1,0.0
+Minnesota Utd,Seattle,1,2,Loss,48,1.41,41,1.21,74.8,14.3,71.3,20.0
+Vancouver,Sporting KC,1,0,Win,43,1.26,40,1.18,63.8,33.3,64.4,28.6
+Colorado Rapids,Real Salt Lake,1,1,Tie,43,1.26,47,1.38,73.5,33.3,70.3,9.1
+Inter Miami,Houston Dynamo,1,3,Loss,48,1.41,36,1.06,69.3,14.3,66.7,0.0
+Portland,LA Galaxy,1,3,Loss,46,1.35,50,1.47,68.1,14.3,69.9,50.0
+Orlando City,Chicago Fire,1,0,Win,48,1.41,39,1.15,67.7,0.0,66.4,0.0
+Inter Miami,New England,3,2,Win,48,1.41,42,1.24,74.1,33.3,66.7,0.0
+New York RB,CF Montreal,1,2,Loss,53,1.56,65,1.91,64.2,0.0,65.5,0.0
+Philadelphia,Columbus Crew,1,0,Win,67,1.97,46,1.35,73.2,0.0,82.5,20.0
+LA Galaxy,Los Angeles FC,2,1,Win,50,1.47,67,1.97,70.7,0.0,68.1,14.3
+Real Salt Lake,Toronto,2,2,Tie,47,1.38,34,1.0,65.8,25.0,73.5,33.3
+Dallas,Colorado Rapids,3,1,Win,53,1.56,43,1.26,70.3,9.1,75.9,28.6
+Houston Dynamo,SJ Earthquakes,4,3,Win,36,1.06,35,1.03,66.1,0.0,69.3,14.3
+Sporting KC,Nashville SC,1,2,Loss,40,1.18,50,1.47,76.7,22.2,63.8,33.3
+Vancouver,Portland,2,3,Loss,43,1.26,46,1.35,69.9,50.0,64.4,28.6
+Charlotte,Atlanta Utd,1,0,Win,42,1.24,40,1.18,61.6,0.0,69.2,0.0
+Austin,Minnesota Utd,1,0,Win,56,1.65,48,1.41,71.3,20.0,72.7,28.6
+CF Montreal,Vancouver,2,1,Win,65,1.91,43,1.26,64.4,28.6,64.2,0.0
+SJ Earthquakes,Nashville SC,2,2,Tie,35,1.03,50,1.47,76.7,22.2,66.1,0.0
+Atlanta Utd,Cincinnati,0,0,Tie,40,1.18,49,1.44,69.6,30.0,61.6,0.0
+Houston Dynamo,Portland,0,0,Tie,36,1.06,46,1.35,69.9,50.0,69.3,14.3
+New York RB,Dallas,0,0,Tie,53,1.56,53,1.56,75.9,28.6,65.5,0.0
+Columbus Crew,Orlando City,0,2,Loss,46,1.35,48,1.41,66.4,0.0,73.2,0.0
+New England,Charlotte,2,1,Win,42,1.24,42,1.24,69.2,0.0,74.1,33.3
+Toronto,Philadelphia,2,1,Win,34,1.0,67,1.97,82.5,20.0,65.8,25.0
+Chicago Fire,LA Galaxy,0,0,Tie,39,1.15,50,1.47,68.1,14.3,67.7,0.0
+DC United,Austin,2,3,Loss,27,0.79,56,1.65,72.7,28.6,64.0,40.0
+Minnesota Utd,Colorado Rapids,3,1,Win,48,1.41,43,1.26,70.3,9.1,71.3,20.0
+Seattle,Inter Miami,0,1,Loss,41,1.21,48,1.41,66.7,0.0,74.8,14.3
+New York City,Real Salt Lake,6,0,Win,55,1.62,47,1.38,73.5,33.3,66.4,0.0
+Los Angeles FC,Sporting KC,3,1,Win,67,1.97,40,1.18,63.8,33.3,70.7,0.0
+Dallas,Houston Dynamo,2,1,Win,53,1.56,36,1.06,69.3,14.3,75.9,28.6
+Philadelphia,CF Montreal,1,1,Tie,67,1.97,65,1.91,64.2,0.0,82.5,20.0
+Minnesota Utd,Chicago Fire,3,0,Win,48,1.41,39,1.15,67.7,0.0,71.3,20.0
+DC United,New England,3,2,Win,27,0.79,42,1.24,74.1,33.3,64.0,40.0
+Austin,Vancouver,3,0,Win,56,1.65,43,1.26,64.4,28.6,72.7,28.6
+Sporting KC,Columbus Crew,0,0,Tie,40,1.18,46,1.35,73.2,0.0,63.8,33.3
+Colorado Rapids,Charlotte,0,0,Tie,43,1.26,42,1.24,69.2,0.0,70.3,9.1
+Portland,Real Salt Lake,0,0,Tie,46,1.35,47,1.38,73.5,33.3,69.9,50.0
+SJ Earthquakes,Seattle,4,3,Win,35,1.03,41,1.21,74.8,14.3,66.1,0.0
+LA Galaxy,Nashville SC,1,0,Win,50,1.47,50,1.47,76.7,22.2,68.1,14.3
+Inter Miami,Atlanta Utd,2,1,Win,48,1.41,40,1.18,61.6,0.0,66.7,0.0
+Orlando City,New York RB,0,3,Loss,48,1.41,53,1.56,65.5,0.0,66.4,0.0
+Cincinnati,Los Angeles FC,1,2,Loss,49,1.44,67,1.97,70.7,0.0,69.6,30.0
+New York City,Toronto,5,4,Win,55,1.62,34,1.0,65.8,25.0,66.4,0.0
+Houston Dynamo,Austin,1,2,Loss,36,1.06,56,1.65,72.7,28.6,69.3,14.3
+Toronto,Cincinnati,1,2,Loss,34,1.0,49,1.44,69.6,30.0,65.8,25.0
+Real Salt Lake,LA Galaxy,1,0,Win,47,1.38,50,1.47,68.1,14.3,73.5,33.3
+CF Montreal,Atlanta Utd,2,1,Win,65,1.91,40,1.18,61.6,0.0,64.2,0.0
+Columbus Crew,DC United,3,0,Win,46,1.35,27,0.79,64.0,40.0,73.2,0.0
+New England,Inter Miami,2,0,Win,42,1.24,48,1.41,66.7,0.0,74.1,33.3
+Orlando City,Charlotte,2,1,Win,48,1.41,42,1.24,69.2,0.0,66.4,0.0
+Chicago Fire,New York RB,1,2,Loss,39,1.15,53,1.56,65.5,0.0,67.7,0.0
+Sporting KC,Dallas,2,2,Tie,40,1.18,53,1.56,75.9,28.6,63.8,33.3
+Colorado Rapids,Portland,2,0,Win,43,1.26,46,1.35,69.9,50.0,70.3,9.1
+New York City,SJ Earthquakes,3,0,Win,55,1.62,35,1.03,66.1,0.0,66.4,0.0
+Nashville SC,Philadelphia,1,1,Tie,50,1.47,67,1.97,82.5,20.0,76.7,22.2
+Los Angeles FC,Minnesota Utd,2,0,Win,67,1.97,48,1.41,71.3,20.0,70.7,0.0
+Cincinnati,Toronto,2,0,Win,49,1.44,34,1.0,65.8,25.0,69.6,30.0
+Charlotte,Inter Miami,1,0,Win,42,1.24,48,1.41,66.7,0.0,69.2,0.0
+CF Montreal,Orlando City,4,1,Win,65,1.91,48,1.41,66.4,0.0,64.2,0.0
+Atlanta Utd,Chicago Fire,4,1,Win,40,1.18,39,1.15,67.7,0.0,61.6,0.0
+New York City,Sporting KC,0,0,Tie,55,1.62,40,1.18,63.8,33.3,66.4,0.0
+New York RB,Portland,1,1,Tie,53,1.56,46,1.35,69.9,50.0,65.5,0.0
+DC United,Houston Dynamo,2,0,Win,27,0.79,36,1.06,69.3,14.3,64.0,40.0
+New England,Columbus Crew,2,2,Tie,42,1.24,46,1.35,73.2,0.0,74.1,33.3
+Minnesota Utd,Cincinnati,0,1,Loss,48,1.41,49,1.44,69.6,30.0,71.3,20.0
+Dallas,Seattle,2,0,Win,53,1.56,41,1.21,74.8,14.3,75.9,28.6
+SJ Earthquakes,Colorado Rapids,1,0,Win,35,1.03,43,1.26,70.3,9.1,66.1,0.0
+Los Angeles FC,Philadelphia,2,2,Tie,67,1.97,67,1.97,82.5,20.0,70.7,0.0
+Vancouver,Toronto,1,0,Win,43,1.26,34,1.0,65.8,25.0,64.4,28.6
+Nashville SC,Real Salt Lake,2,0,Win,50,1.47,47,1.38,73.5,33.3,76.7,22.2
+Austin,LA Galaxy,0,1,Loss,56,1.65,50,1.47,68.1,14.3,72.7,28.6
+Toronto,Orlando City,0,1,Loss,34,1.0,48,1.41,66.4,0.0,65.8,25.0
+Colorado Rapids,Los Angeles FC,2,0,Win,43,1.26,67,1.97,70.7,0.0,70.3,9.1
+Charlotte,CF Montreal,0,2,Loss,42,1.24,65,1.91,64.2,0.0,69.2,0.0
+New York City,Columbus Crew,2,0,Win,55,1.62,46,1.35,73.2,0.0,66.4,0.0
+Vancouver,SJ Earthquakes,3,3,Tie,43,1.26,35,1.03,66.1,0.0,64.4,28.6
+Philadelphia,New York RB,1,1,Tie,67,1.97,53,1.56,65.5,0.0,82.5,20.0
+Chicago Fire,Cincinnati,1,2,Loss,39,1.15,49,1.44,69.6,30.0,67.7,0.0
+Houston Dynamo,Nashville SC,2,0,Win,36,1.06,50,1.47,76.7,22.2,69.3,14.3
+Inter Miami,DC United,2,2,Tie,48,1.41,27,0.79,64.0,40.0,66.7,0.0
+Real Salt Lake,Austin,2,1,Win,47,1.38,56,1.65,72.7,28.6,73.5,33.3
+Portland,Sporting KC,7,2,Win,46,1.35,40,1.18,63.8,33.3,69.9,50.0
+LA Galaxy,Dallas,1,3,Loss,50,1.47,53,1.56,75.9,28.6,68.1,14.3
+Atlanta Utd,New England,2,2,Tie,40,1.18,42,1.24,74.1,33.3,61.6,0.0
+Seattle,Minnesota Utd,3,1,Win,41,1.21,48,1.41,71.3,20.0,74.8,14.3
+DC United,New York City,0,2,Loss,27,0.79,55,1.62,66.4,0.0,64.0,40.0
+New York RB,Chicago Fire,3,3,Tie,53,1.56,39,1.15,67.7,0.0,65.5,0.0
+Philadelphia,Inter Miami,0,0,Tie,67,1.97,48,1.41,66.7,0.0,82.5,20.0
+Minnesota Utd,LA Galaxy,1,1,Tie,48,1.41,50,1.47,68.1,14.3,71.3,20.0
+Houston Dynamo,Seattle,0,1,Loss,36,1.06,41,1.21,74.8,14.3,69.3,14.3
+Nashville SC,CF Montreal,2,1,Win,50,1.47,65,1.91,64.2,0.0,76.7,22.2
+Sporting KC,Colorado Rapids,2,1,Win,40,1.18,43,1.26,70.3,9.1,63.8,33.3
+Vancouver,Dallas,2,1,Win,43,1.26,53,1.56,75.9,28.6,64.4,28.6
+Los Angeles FC,Austin,1,2,Loss,67,1.97,56,1.65,72.7,28.6,70.7,0.0
+SJ Earthquakes,Portland,3,2,Win,35,1.03,46,1.35,69.9,50.0,66.1,0.0
+Columbus Crew,Los Angeles FC,0,2,Loss,46,1.35,67,1.97,70.7,0.0,73.2,0.0
+DC United,Toronto,2,2,Tie,27,0.79,34,1.0,65.8,25.0,64.0,40.0
+Cincinnati,New England,2,3,Loss,49,1.44,42,1.24,74.1,33.3,69.6,30.0
+Nashville SC,Atlanta Utd,2,2,Tie,50,1.47,40,1.18,61.6,0.0,76.7,22.2
+CF Montreal,Real Salt Lake,1,2,Loss,65,1.91,47,1.38,73.5,33.3,64.2,0.0
+Charlotte,Vancouver,2,1,Win,42,1.24,43,1.26,64.4,28.6,69.2,0.0
+New York City,Chicago Fire,1,0,Win,55,1.62,39,1.15,67.7,0.0,66.4,0.0
+Inter Miami,New York RB,2,0,Win,48,1.41,53,1.56,65.5,0.0,66.7,0.0
+Dallas,Minnesota Utd,1,2,Loss,53,1.56,48,1.41,71.3,20.0,75.9,28.6
+SJ Earthquakes,Sporting KC,1,1,Tie,35,1.03,40,1.18,63.8,33.3,66.1,0.0
+Austin,Orlando City,2,2,Tie,56,1.65,48,1.41,66.4,0.0,72.7,28.6
+Colorado Rapids,Seattle,1,0,Win,43,1.26,41,1.21,74.8,14.3,70.3,9.1
+LA Galaxy,Houston Dynamo,0,3,Loss,50,1.47,36,1.06,69.3,14.3,68.1,14.3
+Portland,Philadelphia,0,2,Loss,46,1.35,67,1.97,82.5,20.0,69.9,50.0
+Los Angeles FC,SJ Earthquakes,3,2,Win,67,1.97,35,1.03,66.1,0.0,70.7,0.0
+Atlanta Utd,Columbus Crew,1,2,Loss,40,1.18,46,1.35,73.2,0.0,61.6,0.0
+New York RB,DC United,4,1,Win,53,1.56,27,0.79,64.0,40.0,65.5,0.0
+Toronto,Chicago Fire,3,2,Win,34,1.0,39,1.15,67.7,0.0,65.8,25.0
+CF Montreal,Cincinnati,4,3,Win,65,1.91,49,1.44,69.6,30.0,64.2,0.0
+New England,Philadelphia,1,1,Tie,42,1.24,67,1.97,82.5,20.0,74.1,33.3
+Orlando City,Dallas,1,3,Loss,48,1.41,53,1.56,75.9,28.6,66.4,0.0
+Inter Miami,Portland,2,1,Win,48,1.41,46,1.35,69.9,50.0,66.7,0.0
+Minnesota Utd,New York City,0,1,Loss,48,1.41,55,1.62,66.4,0.0,71.3,20.0
+Colorado Rapids,Nashville SC,1,3,Loss,43,1.26,50,1.47,76.7,22.2,70.3,9.1
+Sporting KC,Vancouver,0,1,Loss,40,1.18,43,1.26,64.4,28.6,63.8,33.3
+Real Salt Lake,Houston Dynamo,3,0,Win,47,1.38,36,1.06,69.3,14.3,73.5,33.3
+LA Galaxy,Austin,4,1,Win,50,1.47,56,1.65,72.7,28.6,68.1,14.3
+Seattle,Charlotte,2,1,Win,41,1.21,42,1.24,69.2,0.0,74.8,14.3
+Vancouver,Real Salt Lake,2,1,Win,43,1.26,47,1.38,73.5,33.3,64.4,28.6
+Charlotte,New York RB,2,0,Win,42,1.24,53,1.56,65.5,0.0,69.2,0.0
+Nashville SC,SJ Earthquakes,0,0,Tie,50,1.47,35,1.03,66.1,0.0,76.7,22.2
+Sporting KC,New England,1,2,Loss,40,1.18,42,1.24,74.1,33.3,63.8,33.3
+Seattle,Vancouver,4,0,Win,41,1.21,43,1.26,64.4,28.6,74.8,14.3
+New England,Orlando City,1,1,Tie,42,1.24,48,1.41,66.4,0.0,74.1,33.3
+Seattle,Los Angeles FC,1,1,Tie,41,1.21,67,1.97,70.7,0.0,74.8,14.3
+LA Galaxy,Portland,1,1,Tie,50,1.47,46,1.35,69.9,50.0,68.1,14.3
+New York RB,Toronto,2,0,Win,53,1.56,34,1.0,65.8,25.0,65.5,0.0
+CF Montreal,Austin,0,1,Loss,65,1.91,56,1.65,72.7,28.6,64.2,0.0
+Columbus Crew,Charlotte,1,1,Tie,46,1.35,42,1.24,69.2,0.0,73.2,0.0
+Orlando City,Houston Dynamo,2,1,Win,48,1.41,36,1.06,69.3,14.3,66.4,0.0
+Philadelphia,Cincinnati,1,1,Tie,67,1.97,49,1.44,69.6,30.0,82.5,20.0
+Chicago Fire,DC United,1,0,Win,39,1.15,27,0.79,64.0,40.0,67.7,0.0
+Dallas,Vancouver,0,2,Loss,53,1.56,43,1.26,64.4,28.6,75.9,28.6
+Real Salt Lake,SJ Earthquakes,2,0,Win,47,1.38,35,1.03,66.1,0.0,73.5,33.3
+Atlanta Utd,Inter Miami,2,0,Win,40,1.18,48,1.41,66.7,0.0,61.6,0.0
+New England,Minnesota Utd,2,1,Win,42,1.24,48,1.41,71.3,20.0,74.1,33.3
+New York City,Colorado Rapids,1,1,Tie,55,1.62,43,1.26,70.3,9.1,66.4,0.0
+Nashville SC,Sporting KC,1,2,Loss,50,1.47,40,1.18,63.8,33.3,76.7,22.2
+Cincinnati,Orlando City,1,0,Win,49,1.44,48,1.41,66.4,0.0,69.6,30.0
+Seattle,Sporting KC,3,0,Win,41,1.21,40,1.18,63.8,33.3,74.8,14.3
+DC United,Nashville SC,1,3,Loss,27,0.79,50,1.47,76.7,22.2,64.0,40.0
+CF Montreal,Charlotte,2,1,Win,65,1.91,42,1.24,69.2,0.0,64.2,0.0
+Toronto,Atlanta Utd,2,1,Win,34,1.0,40,1.18,61.6,0.0,65.8,25.0
+Houston Dynamo,Chicago Fire,2,0,Win,36,1.06,39,1.15,67.7,0.0,69.3,14.3
+Inter Miami,Minnesota Utd,2,1,Win,48,1.41,48,1.41,71.3,20.0,66.7,0.0
+Austin,Dallas,2,2,Tie,56,1.65,53,1.56,75.9,28.6,72.7,28.6
+Real Salt Lake,Columbus Crew,0,0,Tie,47,1.38,46,1.35,73.2,0.0,73.5,33.3
+Portland,Colorado Rapids,3,0,Win,46,1.35,43,1.26,70.3,9.1,69.9,50.0
+Los Angeles FC,New York RB,2,0,Win,67,1.97,53,1.56,65.5,0.0,70.7,0.0
+Philadelphia,New York City,2,1,Win,67,1.97,55,1.62,66.4,0.0,82.5,20.0
+Vancouver,New England,0,0,Tie,43,1.26,42,1.24,74.1,33.3,64.4,28.6
+Cincinnati,New York City,4,4,Tie,49,1.44,55,1.62,66.4,0.0,69.6,30.0
+Toronto,Columbus Crew,1,2,Loss,34,1.0,46,1.35,73.2,0.0,65.8,25.0
+Chicago Fire,Philadelphia,1,0,Win,39,1.15,67,1.97,82.5,20.0,67.7,0.0
+Seattle,CF Montreal,1,2,Loss,41,1.21,65,1.91,64.2,0.0,74.8,14.3
+LA Galaxy,Minnesota Utd,2,3,Loss,50,1.47,48,1.41,71.3,20.0,68.1,14.3
+Los Angeles FC,Dallas,3,1,Win,67,1.97,53,1.56,75.9,28.6,70.7,0.0
+Portland,Houston Dynamo,2,1,Win,46,1.35,36,1.06,69.3,14.3,69.9,50.0
+Charlotte,Austin,0,1,Loss,42,1.24,56,1.65,72.7,28.6,69.2,0.0
+New York RB,Atlanta Utd,2,1,Win,53,1.56,40,1.18,61.6,0.0,65.5,0.0
+Toronto,Seattle,0,2,Loss,34,1.0,41,1.21,74.8,14.3,65.8,25.0
+Vancouver,Los Angeles FC,1,0,Win,43,1.26,67,1.97,70.7,0.0,64.4,28.6
+New York City,Atlanta Utd,2,2,Tie,55,1.62,40,1.18,61.6,0.0,66.4,0.0
+Columbus Crew,Philadelphia,0,0,Tie,46,1.35,67,1.97,82.5,20.0,73.2,0.0
+New England,Cincinnati,2,2,Tie,42,1.24,49,1.44,69.6,30.0,74.1,33.3
+Minnesota Utd,Real Salt Lake,3,2,Win,48,1.41,47,1.38,73.5,33.3,71.3,20.0
+Sporting KC,New York RB,0,1,Loss,40,1.18,53,1.56,65.5,0.0,63.8,33.3
+Houston Dynamo,Charlotte,1,2,Loss,36,1.06,42,1.24,69.2,0.0,69.3,14.3
+Nashville SC,Portland,2,2,Tie,50,1.47,46,1.35,69.9,50.0,76.7,22.2
+SJ Earthquakes,Chicago Fire,2,1,Win,35,1.03,39,1.15,67.7,0.0,66.1,0.0
+Orlando City,DC United,3,5,Loss,48,1.41,27,0.79,64.0,40.0,66.4,0.0
+Colorado Rapids,Austin,2,3,Loss,43,1.26,56,1.65,72.7,28.6,70.3,9.1
+Dallas,Inter Miami,1,1,Tie,53,1.56,48,1.41,66.7,0.0,75.9,28.6
+LA Galaxy,CF Montreal,4,0,Win,50,1.47,65,1.91,64.2,0.0,68.1,14.3
+Philadelphia,DC United,7,0,Win,67,1.97,27,0.79,64.0,40.0,82.5,20.0
+Los Angeles FC,LA Galaxy,3,2,Win,67,1.97,50,1.47,68.1,14.3,70.7,0.0
+Vancouver,Minnesota Utd,1,3,Loss,43,1.26,48,1.41,71.3,20.0,64.4,28.6
+New York City,New England,4,2,Win,55,1.62,42,1.24,74.1,33.3,66.4,0.0
+Seattle,Portland,0,3,Loss,41,1.21,46,1.35,69.9,50.0,74.8,14.3
+Atlanta Utd,Austin,0,3,Loss,40,1.18,56,1.65,72.7,28.6,61.6,0.0
+Charlotte,Nashville SC,4,1,Win,42,1.24,50,1.47,76.7,22.2,69.2,0.0
+CF Montreal,Sporting KC,1,2,Loss,65,1.91,40,1.18,63.8,33.3,64.2,0.0
+Cincinnati,New York RB,1,1,Tie,49,1.44,53,1.56,65.5,0.0,69.6,30.0
+Toronto,SJ Earthquakes,2,2,Tie,34,1.0,35,1.03,66.1,0.0,65.8,25.0
+Chicago Fire,Columbus Crew,2,3,Loss,39,1.15,46,1.35,73.2,0.0,67.7,0.0
+Houston Dynamo,Dallas,2,2,Tie,36,1.06,53,1.56,75.9,28.6,69.3,14.3
+Real Salt Lake,Colorado Rapids,2,2,Tie,47,1.38,43,1.26,70.3,9.1,73.5,33.3
+Orlando City,Inter Miami,1,0,Win,48,1.41,48,1.41,66.7,0.0,66.4,0.0
+Austin,Houston Dynamo,3,1,Win,56,1.65,36,1.06,69.3,14.3,72.7,28.6
+Atlanta Utd,Real Salt Lake,2,1,Win,40,1.18,47,1.38,73.5,33.3,61.6,0.0
+Chicago Fire,Toronto,2,0,Win,39,1.15,34,1.0,65.8,25.0,67.7,0.0
+Cincinnati,Vancouver,2,2,Tie,49,1.44,43,1.26,64.4,28.6,69.6,30.0
+DC United,Columbus Crew,2,2,Tie,27,0.79,46,1.35,73.2,0.0,64.0,40.0
+Inter Miami,Philadelphia,1,2,Loss,48,1.41,67,1.97,82.5,20.0,66.7,0.0
+Minnesota Utd,Sporting KC,1,1,Tie,48,1.41,40,1.18,63.8,33.3,71.3,20.0
+Nashville SC,Seattle,1,0,Win,50,1.47,41,1.21,74.8,14.3,76.7,22.2
+Colorado Rapids,Orlando City,1,1,Tie,43,1.26,48,1.41,66.4,0.0,70.3,9.1
+Dallas,New York City,0,1,Loss,53,1.56,55,1.62,66.4,0.0,75.9,28.6
+LA Galaxy,SJ Earthquakes,2,3,Loss,50,1.47,35,1.03,66.1,0.0,68.1,14.3
+CF Montreal,Toronto,1,0,Win,65,1.91,34,1.0,65.8,25.0,64.2,0.0
+Philadelphia,New England,2,1,Win,67,1.97,42,1.24,74.1,33.3,82.5,20.0
+Chicago Fire,Seattle,1,0,Win,39,1.15,41,1.21,74.8,14.3,67.7,0.0
+Minnesota Utd,DC United,2,0,Win,48,1.41,27,0.79,64.0,40.0,71.3,20.0
+Colorado Rapids,LA Galaxy,2,0,Win,43,1.26,50,1.47,68.1,14.3,70.3,9.1
+Dallas,Austin,1,1,Tie,53,1.56,56,1.65,72.7,28.6,75.9,28.6
+Inter Miami,Charlotte,3,2,Win,48,1.41,42,1.24,69.2,0.0,66.7,0.0
+Atlanta Utd,Orlando City,1,1,Tie,40,1.18,48,1.41,66.4,0.0,61.6,0.0
+New York RB,New York City,0,1,Loss,53,1.56,55,1.62,66.4,0.0,65.5,0.0
+Columbus Crew,Cincinnati,2,0,Win,46,1.35,49,1.44,69.6,30.0,73.2,0.0
+Nashville SC,Los Angeles FC,1,2,Loss,50,1.47,67,1.97,70.7,0.0,76.7,22.2
+Real Salt Lake,Sporting KC,3,0,Win,47,1.38,40,1.18,63.8,33.3,73.5,33.3
+SJ Earthquakes,Houston Dynamo,1,2,Loss,35,1.03,36,1.06,69.3,14.3,66.1,0.0
+Portland,Vancouver,1,1,Tie,46,1.35,43,1.26,64.4,28.6,69.9,50.0
+New York City,Inter Miami,2,0,Win,55,1.62,48,1.41,66.7,0.0,66.4,0.0
+Cincinnati,Nashville SC,1,1,Tie,49,1.44,50,1.47,76.7,22.2,69.6,30.0
+Columbus Crew,New England,0,0,Tie,46,1.35,42,1.24,74.1,33.3,73.2,0.0
+Orlando City,Philadelphia,0,1,Loss,48,1.41,67,1.97,82.5,20.0,66.4,0.0
+Toronto,Charlotte,4,0,Win,34,1.0,42,1.24,69.2,0.0,65.8,25.0
+DC United,CF Montreal,1,2,Loss,27,0.79,65,1.91,64.2,0.0,64.0,40.0
+Houston Dynamo,Minnesota Utd,1,2,Loss,36,1.06,48,1.41,71.3,20.0,69.3,14.3
+Sporting KC,Los Angeles FC,0,2,Loss,40,1.18,67,1.97,70.7,0.0,63.8,33.3
+Real Salt Lake,Dallas,0,1,Loss,47,1.38,53,1.56,75.9,28.6,73.5,33.3
+Seattle,Colorado Rapids,2,1,Win,41,1.21,43,1.26,70.3,9.1,74.8,14.3
+Vancouver,Chicago Fire,1,3,Loss,43,1.26,39,1.15,67.7,0.0,64.4,28.6
+Portland,SJ Earthquakes,2,1,Win,46,1.35,35,1.03,66.1,0.0,69.9,50.0
+Austin,New York RB,3,4,Loss,56,1.65,53,1.56,65.5,0.0,72.7,28.6
+LA Galaxy,Atlanta Utd,2,0,Win,50,1.47,40,1.18,61.6,0.0,68.1,14.3
+Los Angeles FC,Seattle,2,1,Win,67,1.97,41,1.21,74.8,14.3,70.7,0.0
+Minnesota Utd,Portland,4,4,Tie,48,1.41,46,1.35,69.9,50.0,71.3,20.0
+Chicago Fire,Atlanta Utd,0,0,Tie,39,1.15,40,1.18,61.6,0.0,67.7,0.0
+CF Montreal,New York City,0,0,Tie,65,1.91,55,1.62,66.4,0.0,64.2,0.0
+Philadelphia,Houston Dynamo,6,0,Win,67,1.97,36,1.06,69.3,14.3,82.5,20.0
+Inter Miami,Cincinnati,4,4,Tie,48,1.41,49,1.44,69.6,30.0,66.7,0.0
+Nashville SC,Vancouver,1,1,Tie,50,1.47,43,1.26,64.4,28.6,76.7,22.2
+New England,Toronto,0,0,Tie,42,1.24,34,1.0,65.8,25.0,74.1,33.3
+Sporting KC,Austin,0,2,Loss,40,1.18,56,1.65,72.7,28.6,63.8,33.3
+Dallas,LA Galaxy,1,0,Win,53,1.56,50,1.47,68.1,14.3,75.9,28.6
+SJ Earthquakes,Real Salt Lake,2,2,Tie,35,1.03,47,1.38,73.5,33.3,66.1,0.0
+DC United,Orlando City,2,1,Win,27,0.79,48,1.41,66.4,0.0,64.0,40.0
+New York RB,Colorado Rapids,4,5,Loss,53,1.56,43,1.26,70.3,9.1,65.5,0.0
+Seattle,Dallas,1,0,Win,41,1.21,53,1.56,75.9,28.6,74.8,14.3
+Charlotte,DC United,3,0,Win,42,1.24,27,0.79,64.0,40.0,69.2,0.0
+Columbus Crew,CF Montreal,1,2,Loss,46,1.35,65,1.91,64.2,0.0,73.2,0.0
+Portland,Nashville SC,1,1,Tie,46,1.35,50,1.47,76.7,22.2,69.9,50.0
+SJ Earthquakes,Inter Miami,0,1,Loss,35,1.03,48,1.41,66.7,0.0,66.1,0.0
+Vancouver,Houston Dynamo,2,1,Win,43,1.26,36,1.06,69.3,14.3,64.4,28.6
+Atlanta Utd,Seattle,2,1,Win,40,1.18,41,1.21,74.8,14.3,61.6,0.0
+Charlotte,Chicago Fire,2,3,Loss,42,1.24,39,1.15,67.7,0.0,69.2,0.0
+CF Montreal,Inter Miami,2,2,Tie,65,1.91,48,1.41,66.7,0.0,64.2,0.0
+Cincinnati,Philadelphia,3,1,Win,49,1.44,67,1.97,82.5,20.0,69.6,30.0
+Columbus Crew,New York City,3,2,Win,46,1.35,55,1.62,66.4,0.0,73.2,0.0
+DC United,New York RB,0,0,Tie,27,0.79,53,1.56,65.5,0.0,64.0,40.0
+Orlando City,New England,0,3,Loss,48,1.41,42,1.24,74.1,33.3,66.4,0.0
+Nashville SC,Toronto,3,4,Loss,50,1.47,34,1.0,65.8,25.0,76.7,22.2
+Sporting KC,LA Galaxy,4,2,Win,40,1.18,50,1.47,68.1,14.3,63.8,33.3
+Austin,SJ Earthquakes,3,3,Tie,56,1.65,35,1.03,66.1,0.0,72.7,28.6
+Colorado Rapids,Minnesota Utd,4,3,Win,43,1.26,48,1.41,71.3,20.0,70.3,9.1
+Real Salt Lake,Los Angeles FC,1,4,Loss,47,1.38,67,1.97,70.7,0.0,73.5,33.3
+Portland,Dallas,1,1,Tie,46,1.35,53,1.56,75.9,28.6,69.9,50.0
+New York RB,Orlando City,0,1,Loss,53,1.56,48,1.41,66.4,0.0,65.5,0.0
+Cincinnati,Atlanta Utd,2,2,Tie,49,1.44,40,1.18,61.6,0.0,69.6,30.0
+New England,DC United,1,0,Win,42,1.24,27,0.79,64.0,40.0,74.1,33.3
+Philadelphia,Chicago Fire,4,1,Win,67,1.97,39,1.15,67.7,0.0,82.5,20.0
+Toronto,Portland,3,1,Win,34,1.0,46,1.35,69.9,50.0,65.8,25.0
+Inter Miami,New York City,3,2,Win,48,1.41,55,1.62,66.4,0.0,66.7,0.0
+Austin,Sporting KC,4,3,Win,56,1.65,40,1.18,63.8,33.3,72.7,28.6
+Colorado Rapids,Columbus Crew,1,1,Tie,43,1.26,46,1.35,73.2,0.0,70.3,9.1
+Dallas,SJ Earthquakes,4,1,Win,53,1.56,35,1.03,66.1,0.0,75.9,28.6
+Houston Dynamo,CF Montreal,2,3,Loss,36,1.06,65,1.91,64.2,0.0,69.3,14.3
+LA Galaxy,Vancouver,5,2,Win,50,1.47,43,1.26,64.4,28.6,68.1,14.3
+Los Angeles FC,Charlotte,5,0,Win,67,1.97,42,1.24,69.2,0.0,70.7,0.0
+Nashville SC,Minnesota Utd,1,2,Loss,50,1.47,48,1.41,71.3,20.0,76.7,22.2
+Seattle,Real Salt Lake,1,2,Loss,41,1.21,47,1.38,73.5,33.3,74.8,14.3
+Los Angeles FC,DC United,1,0,Win,67,1.97,27,0.79,64.0,40.0,70.7,0.0
+Atlanta Utd,New York RB,1,2,Loss,40,1.18,53,1.56,65.5,0.0,61.6,0.0
+Toronto,New England,2,2,Tie,34,1.0,42,1.24,74.1,33.3,65.8,25.0
+New York City,Charlotte,1,3,Loss,55,1.62,42,1.24,69.2,0.0,66.4,0.0
+Dallas,Philadelphia,1,0,Win,53,1.56,67,1.97,82.5,20.0,75.9,28.6
+Vancouver,Colorado Rapids,2,1,Win,43,1.26,43,1.26,70.3,9.1,64.4,28.6
+LA Galaxy,Seattle,3,3,Tie,50,1.47,41,1.21,74.8,14.3,68.1,14.3
+New York RB,Cincinnati,1,1,Tie,53,1.56,49,1.44,69.6,30.0,65.5,0.0
+CF Montreal,New England,4,0,Win,65,1.91,42,1.24,74.1,33.3,64.2,0.0
+DC United,Philadelphia,0,6,Loss,27,0.79,67,1.97,82.5,20.0,64.0,40.0
+Inter Miami,Toronto,2,1,Win,48,1.41,34,1.0,65.8,25.0,66.7,0.0
+Minnesota Utd,Austin,2,1,Win,48,1.41,56,1.65,72.7,28.6,71.3,20.0
+Colorado Rapids,Houston Dynamo,1,1,Tie,43,1.26,36,1.06,69.3,14.3,70.3,9.1
+Real Salt Lake,Vancouver,1,1,Tie,47,1.38,43,1.26,64.4,28.6,73.5,33.3
+SJ Earthquakes,Los Angeles FC,2,1,Win,35,1.03,67,1.97,70.7,0.0,66.1,0.0
+Chicago Fire,New York City,0,2,Loss,39,1.15,55,1.62,66.4,0.0,67.7,0.0
+Columbus Crew,Atlanta Utd,2,2,Tie,46,1.35,40,1.18,61.6,0.0,73.2,0.0
+Charlotte,Orlando City,1,2,Loss,42,1.24,48,1.41,66.4,0.0,69.2,0.0
+Sporting KC,Portland,4,1,Win,40,1.18,46,1.35,69.9,50.0,63.8,33.3
+Nashville SC,Dallas,4,0,Win,50,1.47,53,1.56,75.9,28.6,76.7,22.2
+Austin,Los Angeles FC,4,1,Win,56,1.65,67,1.97,70.7,0.0,72.7,28.6
+Portland,Seattle,2,1,Win,46,1.35,41,1.21,74.8,14.3,69.9,50.0
+Minnesota Utd,Houston Dynamo,2,1,Win,48,1.41,36,1.06,69.3,14.3,71.3,20.0
+New York RB,Inter Miami,3,1,Win,53,1.56,48,1.41,66.7,0.0,65.5,0.0
+Cincinnati,Columbus Crew,2,2,Tie,49,1.44,46,1.35,73.2,0.0,69.6,30.0
+Philadelphia,Colorado Rapids,6,0,Win,67,1.97,43,1.26,70.3,9.1,82.5,20.0
+Chicago Fire,CF Montreal,0,2,Loss,39,1.15,65,1.91,64.2,0.0,67.7,0.0
+Charlotte,Toronto,0,2,Loss,42,1.24,34,1.0,65.8,25.0,69.2,0.0
+Sporting KC,SJ Earthquakes,1,0,Win,40,1.18,35,1.03,66.1,0.0,63.8,33.3
+Dallas,Real Salt Lake,1,1,Tie,53,1.56,47,1.38,73.5,33.3,75.9,28.6
+Vancouver,Nashville SC,0,3,Loss,43,1.26,50,1.47,76.7,22.2,64.4,28.6
+Atlanta Utd,DC United,3,2,Win,40,1.18,27,0.79,64.0,40.0,61.6,0.0
+Orlando City,New York City,2,1,Win,48,1.41,55,1.62,66.4,0.0,66.4,0.0
+New England,LA Galaxy,1,2,Loss,42,1.24,50,1.47,68.1,14.3,74.1,33.3
+Philadelphia,Atlanta Utd,4,1,Win,67,1.97,40,1.18,61.6,0.0,82.5,20.0
+CF Montreal,New York RB,0,1,Loss,65,1.91,53,1.56,65.5,0.0,64.2,0.0
+Columbus Crew,Inter Miami,1,0,Win,46,1.35,48,1.41,66.7,0.0,73.2,0.0
+New England,Chicago Fire,0,0,Tie,42,1.24,39,1.15,67.7,0.0,74.1,33.3
+Toronto,LA Galaxy,2,2,Tie,34,1.0,50,1.47,68.1,14.3,65.8,25.0
+New York City,DC United,1,2,Loss,55,1.62,27,0.79,64.0,40.0,66.4,0.0
+Houston Dynamo,Los Angeles FC,2,1,Win,36,1.06,67,1.97,70.7,0.0,69.3,14.3
+Nashville SC,Colorado Rapids,4,1,Win,50,1.47,43,1.26,70.3,9.1,76.7,22.2
+Orlando City,Seattle,3,2,Win,48,1.41,41,1.21,74.8,14.3,66.4,0.0
+Real Salt Lake,Minnesota Utd,3,0,Win,47,1.38,48,1.41,71.3,20.0,73.5,33.3
+Austin,Portland,1,2,Loss,56,1.65,46,1.35,69.9,50.0,72.7,28.6
+Minnesota Utd,Dallas,0,3,Loss,48,1.41,53,1.56,75.9,28.6,71.3,20.0
+Columbus Crew,Chicago Fire,0,0,Tie,46,1.35,39,1.15,67.7,0.0,73.2,0.0
+New York RB,Philadelphia,0,2,Loss,53,1.56,67,1.97,82.5,20.0,65.5,0.0
+Cincinnati,Charlotte,2,0,Win,49,1.44,42,1.24,69.2,0.0,69.6,30.0
+Nashville SC,Austin,3,0,Win,50,1.47,56,1.65,72.7,28.6,76.7,22.2
+Portland,Atlanta Utd,2,1,Win,46,1.35,40,1.18,61.6,0.0,69.9,50.0
+DC United,Colorado Rapids,0,0,Tie,27,0.79,43,1.26,70.3,9.1,64.0,40.0
+Toronto,CF Montreal,3,4,Loss,34,1.0,65,1.91,64.2,0.0,65.8,25.0
+LA Galaxy,Sporting KC,2,2,Tie,50,1.47,40,1.18,63.8,33.3,68.1,14.3
+New England,New York City,3,0,Win,42,1.24,55,1.62,66.4,0.0,74.1,33.3
+Seattle,Houston Dynamo,2,1,Win,41,1.21,36,1.06,69.3,14.3,74.8,14.3
+SJ Earthquakes,Vancouver,2,0,Win,35,1.03,43,1.26,64.4,28.6,66.1,0.0
+Los Angeles FC,Real Salt Lake,2,0,Win,67,1.97,47,1.38,73.5,33.3,70.7,0.0
+New York City,Cincinnati,1,1,Tie,55,1.62,49,1.44,69.6,30.0,66.4,0.0
+CF Montreal,Columbus Crew,2,2,Tie,65,1.91,46,1.35,73.2,0.0,64.2,0.0
+Charlotte,New York City,1,0,Win,42,1.24,55,1.62,66.4,0.0,69.2,0.0
+Nashville SC,LA Galaxy,1,1,Tie,50,1.47,50,1.47,68.1,14.3,76.7,22.2
+New York RB,New England,2,1,Win,53,1.56,42,1.24,74.1,33.3,65.5,0.0
+Atlanta Utd,Toronto,4,2,Win,40,1.18,34,1.0,65.8,25.0,61.6,0.0
+Cincinnati,SJ Earthquakes,6,0,Win,49,1.44,35,1.03,66.1,0.0,69.6,30.0
+Philadelphia,Orlando City,5,1,Win,67,1.97,48,1.41,66.4,0.0,82.5,20.0
+Chicago Fire,Inter Miami,3,1,Win,39,1.15,48,1.41,66.7,0.0,67.7,0.0
+Seattle,Austin,3,0,Win,41,1.21,56,1.65,72.7,28.6,74.8,14.3
+Dallas,Los Angeles FC,2,1,Win,53,1.56,67,1.97,70.7,0.0,75.9,28.6
+Houston Dynamo,Sporting KC,0,0,Tie,36,1.06,40,1.18,63.8,33.3,69.3,14.3
+Colorado Rapids,Vancouver,3,1,Win,43,1.26,43,1.26,64.4,28.6,70.3,9.1
+Real Salt Lake,DC United,0,0,Tie,47,1.38,27,0.79,64.0,40.0,73.5,33.3
+Portland,Minnesota Utd,1,0,Win,46,1.35,48,1.41,71.3,20.0,69.9,50.0
+CF Montreal,Chicago Fire,3,2,Win,65,1.91,39,1.15,67.7,0.0,64.2,0.0
+Inter Miami,Columbus Crew,2,1,Win,48,1.41,46,1.35,73.2,0.0,66.7,0.0
+Minnesota Utd,Los Angeles FC,1,1,Tie,48,1.41,67,1.97,70.7,0.0,71.3,20.0
+Houston Dynamo,New England,3,1,Win,36,1.06,42,1.24,74.1,33.3,69.3,14.3
+Sporting KC,DC United,3,0,Win,40,1.18,27,0.79,64.0,40.0,63.8,33.3
+Orlando City,Atlanta Utd,0,1,Loss,48,1.41,40,1.18,61.6,0.0,66.4,0.0
+Austin,Real Salt Lake,3,0,Win,56,1.65,47,1.38,73.5,33.3,72.7,28.6
+Colorado Rapids,SJ Earthquakes,2,1,Win,43,1.26,35,1.03,66.1,0.0,70.3,9.1
+Vancouver,LA Galaxy,3,0,Win,43,1.26,50,1.47,68.1,14.3,64.4,28.6
+New York City,New York RB,2,0,Win,55,1.62,53,1.56,65.5,0.0,66.4,0.0
+Atlanta Utd,Philadelphia,0,0,Tie,40,1.18,67,1.97,82.5,20.0,61.6,0.0
+New England,CF Montreal,0,1,Loss,42,1.24,65,1.91,64.2,0.0,74.1,33.3
+Orlando City,Toronto,4,0,Win,48,1.41,34,1.0,65.8,25.0,66.4,0.0
+Chicago Fire,Charlotte,2,3,Loss,39,1.15,42,1.24,69.2,0.0,67.7,0.0
+Sporting KC,Minnesota Utd,4,1,Win,40,1.18,48,1.41,71.3,20.0,63.8,33.3
+Austin,Nashville SC,1,1,Tie,56,1.65,50,1.47,76.7,22.2,72.7,28.6
+Real Salt Lake,Cincinnati,1,2,Loss,47,1.38,49,1.44,69.6,30.0,73.5,33.3
+Vancouver,Seattle,2,1,Win,43,1.26,41,1.21,74.8,14.3,64.4,28.6
+LA Galaxy,Colorado Rapids,4,1,Win,50,1.47,43,1.26,70.3,9.1,68.1,14.3
+SJ Earthquakes,Dallas,1,1,Tie,35,1.03,53,1.56,75.9,28.6,66.1,0.0
+Columbus Crew,Portland,1,1,Tie,46,1.35,46,1.35,69.9,50.0,73.2,0.0
+DC United,Inter Miami,2,3,Loss,27,0.79,48,1.41,66.7,0.0,64.0,40.0
+Los Angeles FC,Houston Dynamo,3,1,Win,67,1.97,36,1.06,69.3,14.3,70.7,0.0
+SJ Earthquakes,LA Galaxy,2,3,Loss,35,1.03,50,1.47,68.1,14.3,66.1,0.0
+Seattle,Cincinnati,1,1,Tie,41,1.21,49,1.44,69.6,30.0,74.8,14.3
+Toronto,Inter Miami,0,1,Loss,34,1.0,48,1.41,66.7,0.0,65.8,25.0
+New England,Atlanta Utd,2,1,Win,42,1.24,40,1.18,61.6,0.0,74.1,33.3
+Colorado Rapids,Dallas,1,0,Win,43,1.26,53,1.56,75.9,28.6,70.3,9.1
+Charlotte,Philadelphia,4,0,Win,42,1.24,67,1.97,82.5,20.0,69.2,0.0
+CF Montreal,DC United,1,0,Win,65,1.91,27,0.79,64.0,40.0,64.2,0.0
+Cincinnati,Chicago Fire,2,3,Loss,49,1.44,39,1.15,67.7,0.0,69.6,30.0
+Columbus Crew,New York RB,2,1,Win,46,1.35,53,1.56,65.5,0.0,73.2,0.0
+SJ Earthquakes,Minnesota Utd,2,0,Win,35,1.03,48,1.41,71.3,20.0,66.1,0.0
+Vancouver,Austin,2,0,Win,43,1.26,56,1.65,72.7,28.6,64.4,28.6
+LA Galaxy,Real Salt Lake,1,1,Tie,50,1.47,47,1.38,73.5,33.3,68.1,14.3
+New York City,Orlando City,2,1,Win,55,1.62,48,1.41,66.4,0.0,66.4,0.0
+Portland,Los Angeles FC,1,2,Loss,46,1.35,67,1.97,70.7,0.0,69.9,50.0
+Sporting KC,Seattle,1,0,Win,40,1.18,41,1.21,74.8,14.3,63.8,33.3
+Nashville SC,Houston Dynamo,1,2,Loss,50,1.47,36,1.06,69.3,14.3,76.7,22.2
+Charlotte,Columbus Crew,2,2,Tie,42,1.24,46,1.35,73.2,0.0,69.2,0.0
+Inter Miami,Orlando City,4,1,Win,48,1.41,48,1.41,66.4,0.0,66.7,0.0
+Atlanta Utd,New York City,1,2,Loss,40,1.18,55,1.62,66.4,0.0,61.6,0.0
+Chicago Fire,New England,1,1,Tie,39,1.15,42,1.24,74.1,33.3,67.7,0.0
+DC United,Cincinnati,2,5,Loss,27,0.79,49,1.44,69.6,30.0,64.0,40.0
+Inter Miami,CF Montreal,1,3,Loss,48,1.41,65,1.91,64.2,0.0,66.7,0.0
+New York RB,Charlotte,2,0,Win,53,1.56,42,1.24,69.2,0.0,65.5,0.0
+Orlando City,Columbus Crew,2,1,Win,48,1.41,46,1.35,73.2,0.0,66.4,0.0
+Philadelphia,Toronto,4,0,Win,67,1.97,34,1.0,65.8,25.0,82.5,20.0
+Austin,Colorado Rapids,1,1,Tie,56,1.65,43,1.26,70.3,9.1,72.7,28.6
+Dallas,Sporting KC,2,1,Win,53,1.56,40,1.18,63.8,33.3,75.9,28.6
+Houston Dynamo,LA Galaxy,1,3,Loss,36,1.06,50,1.47,68.1,14.3,69.3,14.3
+Los Angeles FC,Nashville SC,0,1,Loss,67,1.97,50,1.47,76.7,22.2,70.7,0.0
+Minnesota Utd,Vancouver,2,0,Win,48,1.41,43,1.26,64.4,28.6,71.3,20.0
+Real Salt Lake,Portland,3,1,Win,47,1.38,46,1.35,69.9,50.0,73.5,33.3
+Seattle,SJ Earthquakes,2,2,Tie,41,1.21,35,1.03,66.1,0.0,74.8,14.3
+Houston Dynamo,SJ Earthquakes,2,1,Win,36,1.06,35,1.03,66.1,0.0,69.3,14.3
+Seattle,Minnesota Utd,4,0,Win,41,1.21,48,1.41,71.3,20.0,74.8,14.3
+CF Montreal,Toronto,4,2,Win,65,1.91,34,1.0,65.8,25.0,64.2,0.0
+Orlando City,Atlanta Utd,0,0,Tie,48,1.41,40,1.18,61.6,0.0,66.4,0.0
+Los Angeles FC,Austin,2,0,Win,67,1.97,56,1.65,72.7,28.6,70.7,0.0
+Dallas,Colorado Rapids,0,0,Tie,53,1.56,43,1.26,70.3,9.1,75.9,28.6
+DC United,New York City,2,1,Win,27,0.79,55,1.62,66.4,0.0,64.0,40.0
+New York RB,Sporting KC,1,2,Loss,53,1.56,40,1.18,63.8,33.3,65.5,0.0
+Chicago Fire,New England,2,2,Tie,39,1.15,42,1.24,74.1,33.3,67.7,0.0
+Nashville SC,Cincinnati,2,2,Tie,50,1.47,49,1.44,69.6,30.0,76.7,22.2
+Inter Miami,LA Galaxy,2,3,Loss,48,1.41,50,1.47,68.1,14.3,66.7,0.0
+Columbus Crew,Philadelphia,0,0,Tie,46,1.35,67,1.97,82.5,20.0,73.2,0.0
+Vancouver,Portland,1,0,Win,43,1.26,46,1.35,69.9,50.0,64.4,28.6
+Sporting KC,Orlando City,1,1,Tie,40,1.18,48,1.41,66.4,0.0,63.8,33.3
+New York City,Cincinnati,5,0,Win,55,1.62,49,1.44,69.6,30.0,66.4,0.0
+Nashville SC,CF Montreal,2,2,Tie,50,1.47,65,1.91,64.2,0.0,76.7,22.2
+Toronto,Vancouver,2,2,Tie,34,1.0,43,1.26,64.4,28.6,65.8,25.0
+SJ Earthquakes,Dallas,3,1,Win,35,1.03,53,1.56,75.9,28.6,66.1,0.0
+Los Angeles FC,Seattle,1,1,Tie,67,1.97,41,1.21,74.8,14.3,70.7,0.0
+Atlanta Utd,Chicago Fire,3,1,Win,40,1.18,39,1.15,67.7,0.0,61.6,0.0
+Minnesota Utd,Real Salt Lake,1,2,Loss,48,1.41,47,1.38,73.5,33.3,71.3,20.0
+New England,DC United,1,0,Win,42,1.24,27,0.79,64.0,40.0,74.1,33.3
+Philadelphia,Inter Miami,1,2,Loss,67,1.97,48,1.41,66.7,0.0,82.5,20.0
+Colorado Rapids,Austin,1,3,Loss,43,1.26,56,1.65,72.7,28.6,70.3,9.1
+Portland,Houston Dynamo,2,1,Win,46,1.35,36,1.06,69.3,14.3,69.9,50.0
+LA Galaxy,New York RB,3,2,Win,50,1.47,53,1.56,65.5,0.0,68.1,14.3
+New York RB,Chicago Fire,2,0,Win,53,1.56,39,1.15,67.7,0.0,65.5,0.0
+Real Salt Lake,Sporting KC,3,1,Win,47,1.38,40,1.18,63.8,33.3,73.5,33.3
+CF Montreal,Columbus Crew,0,0,Tie,65,1.91,46,1.35,73.2,0.0,64.2,0.0
+Houston Dynamo,Los Angeles FC,1,1,Tie,36,1.06,67,1.97,70.7,0.0,69.3,14.3
+New England,Atlanta Utd,2,1,Win,42,1.24,40,1.18,61.6,0.0,74.1,33.3
+Orlando City,Cincinnati,3,0,Win,48,1.41,49,1.44,69.6,30.0,66.4,0.0
+Philadelphia,New York City,0,2,Loss,67,1.97,55,1.62,66.4,0.0,82.5,20.0
+Dallas,Portland,4,1,Win,53,1.56,46,1.35,69.9,50.0,75.9,28.6
+Minnesota Utd,Austin,0,1,Loss,48,1.41,56,1.65,72.7,28.6,71.3,20.0
+SJ Earthquakes,DC United,4,1,Win,35,1.03,27,0.79,64.0,40.0,66.1,0.0
+Nashville SC,Inter Miami,0,0,Tie,50,1.47,48,1.41,66.7,0.0,76.7,22.2
+Seattle,LA Galaxy,3,0,Win,41,1.21,50,1.47,68.1,14.3,74.8,14.3
+Vancouver,Colorado Rapids,0,1,Loss,43,1.26,43,1.26,70.3,9.1,64.4,28.6
+Real Salt Lake,SJ Earthquakes,1,2,Loss,47,1.38,35,1.03,66.1,0.0,73.5,33.3
+Chicago Fire,Philadelphia,0,2,Loss,39,1.15,67,1.97,82.5,20.0,67.7,0.0
+New York RB,Toronto,2,0,Win,53,1.56,34,1.0,65.8,25.0,65.5,0.0
+Columbus Crew,DC United,3,1,Win,46,1.35,27,0.79,64.0,40.0,73.2,0.0
+Nashville SC,New England,2,0,Win,50,1.47,42,1.24,74.1,33.3,76.7,22.2
+Vancouver,CF Montreal,2,0,Win,43,1.26,65,1.91,64.2,0.0,64.4,28.6
+Dallas,Houston Dynamo,1,1,Tie,53,1.56,36,1.06,69.3,14.3,75.9,28.6
+Orlando City,New York City,1,1,Tie,48,1.41,55,1.62,66.4,0.0,66.4,0.0
+LA Galaxy,Los Angeles FC,2,1,Win,50,1.47,67,1.97,70.7,0.0,68.1,14.3
+Colorado Rapids,Minnesota Utd,3,2,Win,43,1.26,48,1.41,71.3,20.0,70.3,9.1
+Inter Miami,Atlanta Utd,1,1,Tie,48,1.41,40,1.18,61.6,0.0,66.7,0.0
+Portland,Seattle,1,2,Loss,46,1.35,41,1.21,74.8,14.3,69.9,50.0
+Sporting KC,Austin,2,1,Win,40,1.18,56,1.65,72.7,28.6,63.8,33.3
+Toronto,Columbus Crew,2,0,Win,34,1.0,46,1.35,73.2,0.0,65.8,25.0
+Inter Miami,CF Montreal,0,2,Loss,48,1.41,65,1.91,64.2,0.0,66.7,0.0
+Philadelphia,New England,1,1,Tie,67,1.97,42,1.24,74.1,33.3,82.5,20.0
+Houston Dynamo,Sporting KC,1,0,Win,36,1.06,40,1.18,63.8,33.3,69.3,14.3
+Minnesota Utd,Vancouver,1,0,Win,48,1.41,43,1.26,64.4,28.6,71.3,20.0
+SJ Earthquakes,Seattle,0,1,Loss,35,1.03,41,1.21,74.8,14.3,66.1,0.0
+DC United,Chicago Fire,1,0,Win,27,0.79,39,1.15,67.7,0.0,64.0,40.0
+New York City,Toronto,1,1,Tie,55,1.62,34,1.0,65.8,25.0,66.4,0.0
+LA Galaxy,Austin,2,0,Win,50,1.47,56,1.65,72.7,28.6,68.1,14.3
+Atlanta Utd,CF Montreal,1,0,Win,40,1.18,65,1.91,64.2,0.0,61.6,0.0
+Philadelphia,New York RB,1,0,Win,67,1.97,53,1.56,65.5,0.0,82.5,20.0
+Minnesota Utd,Dallas,1,0,Win,48,1.41,53,1.56,75.9,28.6,71.3,20.0
+Colorado Rapids,Houston Dynamo,3,1,Win,43,1.26,36,1.06,69.3,14.3,70.3,9.1
+Real Salt Lake,Nashville SC,0,0,Tie,47,1.38,50,1.47,76.7,22.2,73.5,33.3
+SJ Earthquakes,Portland,0,2,Loss,35,1.03,46,1.35,69.9,50.0,66.1,0.0
+Sporting KC,Vancouver,3,0,Win,40,1.18,43,1.26,64.4,28.6,63.8,33.3
+Cincinnati,Inter Miami,2,3,Loss,49,1.44,48,1.41,66.7,0.0,69.6,30.0
+New England,Columbus Crew,1,0,Win,42,1.24,46,1.35,73.2,0.0,74.1,33.3
+DC United,Orlando City,0,1,Loss,27,0.79,48,1.41,66.4,0.0,64.0,40.0
+Seattle,Los Angeles FC,2,0,Win,41,1.21,67,1.97,70.7,0.0,74.8,14.3
+CF Montreal,Cincinnati,1,2,Loss,65,1.91,49,1.44,69.6,30.0,64.2,0.0
+Portland,LA Galaxy,3,0,Win,46,1.35,50,1.47,68.1,14.3,69.9,50.0
+Chicago Fire,Inter Miami,1,0,Win,39,1.15,48,1.41,66.7,0.0,67.7,0.0
+Orlando City,Toronto,1,0,Win,48,1.41,34,1.0,65.8,25.0,66.4,0.0
+New York City,Columbus Crew,1,2,Loss,55,1.62,46,1.35,73.2,0.0,66.4,0.0
+Dallas,Real Salt Lake,2,2,Tie,53,1.56,47,1.38,73.5,33.3,75.9,28.6
+New England,New York RB,3,1,Win,42,1.24,53,1.56,65.5,0.0,74.1,33.3
+Houston Dynamo,Vancouver,2,1,Win,36,1.06,43,1.26,64.4,28.6,69.3,14.3
+SJ Earthquakes,Sporting KC,1,3,Loss,35,1.03,40,1.18,63.8,33.3,66.1,0.0
+Los Angeles FC,Colorado Rapids,2,1,Win,67,1.97,43,1.26,70.3,9.1,70.7,0.0
+Seattle,Atlanta Utd,1,1,Tie,41,1.21,40,1.18,61.6,0.0,74.8,14.3
+DC United,Philadelphia,0,1,Loss,27,0.79,67,1.97,82.5,20.0,64.0,40.0
+Nashville SC,Austin,1,0,Win,50,1.47,56,1.65,72.7,28.6,76.7,22.2
+Chicago Fire,CF Montreal,0,1,Loss,39,1.15,65,1.91,64.2,0.0,67.7,0.0
+New York RB,Orlando City,2,1,Win,53,1.56,48,1.41,66.4,0.0,65.5,0.0
+Cincinnati,New England,0,1,Loss,49,1.44,42,1.24,74.1,33.3,69.6,30.0
+Columbus Crew,Toronto,2,1,Win,46,1.35,34,1.0,65.8,25.0,73.2,0.0
+Atlanta Utd,Nashville SC,2,2,Tie,40,1.18,50,1.47,76.7,22.2,61.6,0.0
+Los Angeles FC,New York City,1,2,Loss,67,1.97,55,1.62,66.4,0.0,70.7,0.0
+LA Galaxy,SJ Earthquakes,1,0,Win,50,1.47,35,1.03,66.1,0.0,68.1,14.3
+Inter Miami,DC United,0,3,Loss,48,1.41,27,0.79,64.0,40.0,66.7,0.0
+Sporting KC,Houston Dynamo,3,2,Win,40,1.18,36,1.06,69.3,14.3,63.8,33.3
+Colorado Rapids,Dallas,3,0,Win,43,1.26,53,1.56,75.9,28.6,70.3,9.1
+Real Salt Lake,Minnesota Utd,1,1,Tie,47,1.38,48,1.41,71.3,20.0,73.5,33.3
+Philadelphia,Portland,3,0,Win,67,1.97,46,1.35,69.9,50.0,82.5,20.0
+Seattle,Austin,0,0,Tie,41,1.21,56,1.65,72.7,28.6,74.8,14.3
+Sporting KC,Austin,1,1,Tie,40,1.18,56,1.65,72.7,28.6,63.8,33.3
+New York RB,Nashville SC,2,0,Win,53,1.56,50,1.47,76.7,22.2,65.5,0.0
+Real Salt Lake,Vancouver,3,1,Win,47,1.38,43,1.26,64.4,28.6,73.5,33.3
+Cincinnati,Colorado Rapids,0,2,Loss,49,1.44,43,1.26,70.3,9.1,69.6,30.0
+Columbus Crew,Chicago Fire,2,0,Win,46,1.35,39,1.15,67.7,0.0,73.2,0.0
+New York City,New England,2,3,Loss,55,1.62,42,1.24,74.1,33.3,66.4,0.0
+Toronto,Orlando City,2,3,Loss,34,1.0,48,1.41,66.4,0.0,65.8,25.0
+DC United,Inter Miami,1,0,Win,27,0.79,48,1.41,66.7,0.0,64.0,40.0
+Dallas,Minnesota Utd,1,1,Tie,53,1.56,48,1.41,71.3,20.0,75.9,28.6
+Austin,SJ Earthquakes,0,0,Tie,56,1.65,35,1.03,66.1,0.0,72.7,28.6
+LA Galaxy,Seattle,1,2,Loss,50,1.47,41,1.21,74.8,14.3,68.1,14.3
+Portland,Sporting KC,2,1,Win,46,1.35,40,1.18,63.8,33.3,69.9,50.0
+Los Angeles FC,Houston Dynamo,1,1,Tie,67,1.97,36,1.06,69.3,14.3,70.7,0.0
+Atlanta Utd,Philadelphia,2,2,Tie,40,1.18,67,1.97,82.5,20.0,61.6,0.0
+Orlando City,SJ Earthquakes,5,0,Win,48,1.41,35,1.03,66.1,0.0,66.4,0.0
+New England,New York RB,3,2,Win,42,1.24,53,1.56,65.5,0.0,74.1,33.3
+New York City,Atlanta Utd,1,0,Win,55,1.62,40,1.18,61.6,0.0,66.4,0.0
+Philadelphia,Columbus Crew,1,0,Win,67,1.97,46,1.35,73.2,0.0,82.5,20.0
+CF Montreal,DC United,0,0,Tie,65,1.91,27,0.79,64.0,40.0,64.2,0.0
+Chicago Fire,Cincinnati,0,1,Loss,39,1.15,49,1.44,69.6,30.0,67.7,0.0
+Minnesota Utd,Austin,2,0,Win,48,1.41,56,1.65,72.7,28.6,71.3,20.0
+Houston Dynamo,Portland,2,2,Tie,36,1.06,46,1.35,69.9,50.0,69.3,14.3
+Nashville SC,Toronto,3,2,Win,50,1.47,34,1.0,65.8,25.0,76.7,22.2
+Sporting KC,Colorado Rapids,3,1,Win,40,1.18,43,1.26,70.3,9.1,63.8,33.3
+Seattle,Real Salt Lake,2,1,Win,41,1.21,47,1.38,73.5,33.3,74.8,14.3
+Los Angeles FC,Dallas,2,0,Win,67,1.97,53,1.56,75.9,28.6,70.7,0.0
+Vancouver,LA Galaxy,1,2,Loss,43,1.26,50,1.47,68.1,14.3,64.4,28.6
+Inter Miami,Orlando City,1,2,Loss,48,1.41,48,1.41,66.4,0.0,66.7,0.0
+Sporting KC,Los Angeles FC,2,1,Win,40,1.18,67,1.97,70.7,0.0,63.8,33.3
+Toronto,Cincinnati,0,2,Loss,34,1.0,49,1.44,69.6,30.0,65.8,25.0
+Chicago Fire,Philadelphia,3,3,Tie,39,1.15,67,1.97,82.5,20.0,67.7,0.0
+Real Salt Lake,Houston Dynamo,1,1,Tie,47,1.38,36,1.06,69.3,14.3,73.5,33.3
+Nashville SC,CF Montreal,1,1,Tie,50,1.47,65,1.91,64.2,0.0,76.7,22.2
+Seattle,Vancouver,2,2,Tie,41,1.21,43,1.26,64.4,28.6,74.8,14.3
+SJ Earthquakes,LA Galaxy,1,3,Loss,35,1.03,50,1.47,68.1,14.3,66.1,0.0
+Portland,Minnesota Utd,0,1,Loss,46,1.35,48,1.41,71.3,20.0,69.9,50.0
+Atlanta Utd,New York RB,0,0,Tie,40,1.18,53,1.56,65.5,0.0,61.6,0.0
+New York City,DC United,2,1,Win,55,1.62,27,0.79,64.0,40.0,66.4,0.0
+Austin,Columbus Crew,0,0,Tie,56,1.65,46,1.35,73.2,0.0,72.7,28.6
+Dallas,New England,2,1,Win,53,1.56,42,1.24,74.1,33.3,75.9,28.6
+Austin,Portland,4,1,Win,56,1.65,46,1.35,69.9,50.0,72.7,28.6
+Columbus Crew,New England,2,2,Tie,46,1.35,42,1.24,74.1,33.3,73.2,0.0
+DC United,Toronto,7,1,Win,27,0.79,34,1.0,65.8,25.0,64.0,40.0
+CF Montreal,Inter Miami,1,0,Win,65,1.91,48,1.41,66.7,0.0,64.2,0.0
+Orlando City,New York RB,1,2,Loss,48,1.41,53,1.56,65.5,0.0,66.4,0.0
+Chicago Fire,Atlanta Utd,3,0,Win,39,1.15,40,1.18,61.6,0.0,67.7,0.0
+Minnesota Utd,SJ Earthquakes,2,2,Tie,48,1.41,35,1.03,66.1,0.0,71.3,20.0
+Nashville SC,Philadelphia,1,0,Win,50,1.47,67,1.97,82.5,20.0,76.7,22.2
+Houston Dynamo,Cincinnati,1,1,Tie,36,1.06,49,1.44,69.6,30.0,69.3,14.3
+Real Salt Lake,Los Angeles FC,0,1,Loss,47,1.38,67,1.97,70.7,0.0,73.5,33.3
+Dallas,Vancouver,2,2,Tie,53,1.56,43,1.26,64.4,28.6,75.9,28.6
+Colorado Rapids,Seattle,1,1,Tie,43,1.26,41,1.21,74.8,14.3,70.3,9.1
+LA Galaxy,Sporting KC,0,2,Loss,50,1.47,40,1.18,63.8,33.3,68.1,14.3
+New England,Toronto,2,3,Loss,42,1.24,34,1.0,65.8,25.0,74.1,33.3
+CF Montreal,New York City,2,1,Win,65,1.91,55,1.62,66.4,0.0,64.2,0.0
+Chicago Fire,Orlando City,3,1,Win,39,1.15,48,1.41,66.4,0.0,67.7,0.0
+Austin,Los Angeles FC,0,2,Loss,56,1.65,67,1.97,70.7,0.0,72.7,28.6
+Colorado Rapids,Minnesota Utd,2,0,Win,43,1.26,48,1.41,71.3,20.0,70.3,9.1
+Seattle,Houston Dynamo,2,0,Win,41,1.21,36,1.06,69.3,14.3,74.8,14.3
+Vancouver,Real Salt Lake,0,4,Loss,43,1.26,47,1.38,73.5,33.3,64.4,28.6
+LA Galaxy,Dallas,3,1,Win,50,1.47,53,1.56,75.9,28.6,68.1,14.3
+New York RB,Philadelphia,1,1,Tie,53,1.56,67,1.97,82.5,20.0,65.5,0.0
+Nashville SC,Atlanta Utd,2,2,Tie,50,1.47,40,1.18,61.6,0.0,76.7,22.2
+Cincinnati,Columbus Crew,2,2,Tie,49,1.44,46,1.35,73.2,0.0,69.6,30.0
+Atlanta Utd,New England,0,1,Loss,40,1.18,42,1.24,74.1,33.3,61.6,0.0
+CF Montreal,Cincinnati,5,4,Win,65,1.91,49,1.44,69.6,30.0,64.2,0.0
+Columbus Crew,New York City,2,1,Win,46,1.35,55,1.62,66.4,0.0,73.2,0.0
+Philadelphia,DC United,2,1,Win,67,1.97,27,0.79,64.0,40.0,82.5,20.0
+Toronto,Orlando City,1,1,Tie,34,1.0,48,1.41,66.4,0.0,65.8,25.0
+Nashville SC,Chicago Fire,5,1,Win,50,1.47,39,1.15,67.7,0.0,76.7,22.2
+Colorado Rapids,SJ Earthquakes,1,1,Tie,43,1.26,35,1.03,66.1,0.0,70.3,9.1
+Vancouver,LA Galaxy,2,1,Win,43,1.26,50,1.47,68.1,14.3,64.4,28.6
+Los Angeles FC,Real Salt Lake,2,1,Win,67,1.97,47,1.38,73.5,33.3,70.7,0.0
+Portland,Dallas,1,0,Win,46,1.35,53,1.56,75.9,28.6,69.9,50.0
+Minnesota Utd,Seattle,1,0,Win,48,1.41,41,1.21,74.8,14.3,71.3,20.0
+Vancouver,Houston Dynamo,0,0,Tie,43,1.26,36,1.06,69.3,14.3,64.4,28.6
+Columbus Crew,Nashville SC,0,0,Tie,46,1.35,50,1.47,76.7,22.2,73.2,0.0
+Inter Miami,New England,0,5,Loss,48,1.41,42,1.24,74.1,33.3,66.7,0.0
+New York City,CF Montreal,1,0,Win,55,1.62,65,1.91,64.2,0.0,66.4,0.0
+Toronto,New York RB,1,1,Tie,34,1.0,53,1.56,65.5,0.0,65.8,25.0
+Chicago Fire,DC United,2,2,Tie,39,1.15,27,0.79,64.0,40.0,67.7,0.0
+Cincinnati,Atlanta Utd,1,1,Tie,49,1.44,40,1.18,61.6,0.0,69.6,30.0
+Sporting KC,SJ Earthquakes,1,1,Tie,40,1.18,35,1.03,66.1,0.0,63.8,33.3
+Colorado Rapids,Dallas,2,0,Win,43,1.26,53,1.56,75.9,28.6,70.3,9.1
+Real Salt Lake,LA Galaxy,2,2,Tie,47,1.38,50,1.47,68.1,14.3,73.5,33.3
+Portland,Los Angeles FC,2,1,Win,46,1.35,67,1.97,70.7,0.0,69.9,50.0
+Orlando City,Philadelphia,2,1,Win,48,1.41,67,1.97,82.5,20.0,66.4,0.0
+Austin,Seattle,0,1,Loss,56,1.65,41,1.21,74.8,14.3,72.7,28.6
+Atlanta Utd,Columbus Crew,0,1,Loss,40,1.18,46,1.35,73.2,0.0,61.6,0.0
+Chicago Fire,Toronto,1,2,Loss,39,1.15,34,1.0,65.8,25.0,67.7,0.0
+Minnesota Utd,Portland,2,1,Win,48,1.41,46,1.35,69.9,50.0,71.3,20.0
+Dallas,LA Galaxy,4,0,Win,53,1.56,50,1.47,68.1,14.3,75.9,28.6
+Nashville SC,Cincinnati,3,0,Win,50,1.47,49,1.44,69.6,30.0,76.7,22.2
+Real Salt Lake,Colorado Rapids,3,0,Win,47,1.38,43,1.26,70.3,9.1,73.5,33.3
+SJ Earthquakes,Houston Dynamo,1,1,Tie,35,1.03,36,1.06,69.3,14.3,66.1,0.0
+Los Angeles FC,Vancouver,2,2,Tie,67,1.97,43,1.26,64.4,28.6,70.7,0.0
+New England,CF Montreal,2,1,Win,42,1.24,65,1.91,64.2,0.0,74.1,33.3
+New York City,Orlando City,5,0,Win,55,1.62,48,1.41,66.4,0.0,66.4,0.0
+Inter Miami,Philadelphia,1,1,Tie,48,1.41,67,1.97,82.5,20.0,66.7,0.0
+DC United,New York RB,1,0,Win,27,0.79,53,1.56,65.5,0.0,64.0,40.0
+Seattle,Sporting KC,1,3,Loss,41,1.21,40,1.18,63.8,33.3,74.8,14.3
+Los Angeles FC,Minnesota Utd,2,2,Tie,67,1.97,48,1.41,71.3,20.0,70.7,0.0
+New York City,Columbus Crew,4,1,Win,55,1.62,46,1.35,73.2,0.0,66.4,0.0
+Orlando City,Atlanta Utd,3,2,Win,48,1.41,40,1.18,61.6,0.0,66.4,0.0
+LA Galaxy,Portland,4,1,Win,50,1.47,46,1.35,69.9,50.0,68.1,14.3
+Seattle,SJ Earthquakes,0,1,Loss,41,1.21,35,1.03,66.1,0.0,74.8,14.3
+New York RB,New England,2,3,Loss,53,1.56,42,1.24,74.1,33.3,65.5,0.0
+Cincinnati,DC United,0,0,Tie,49,1.44,27,0.79,64.0,40.0,69.6,30.0
+Inter Miami,CF Montreal,2,1,Win,48,1.41,65,1.91,64.2,0.0,66.7,0.0
+Houston Dynamo,Real Salt Lake,0,0,Tie,36,1.06,47,1.38,73.5,33.3,69.3,14.3
+Sporting KC,Dallas,1,2,Loss,40,1.18,53,1.56,75.9,28.6,63.8,33.3
+Austin,Colorado Rapids,0,1,Loss,56,1.65,43,1.26,70.3,9.1,72.7,28.6
+Vancouver,Minnesota Utd,2,2,Tie,43,1.26,48,1.41,71.3,20.0,64.4,28.6
+Philadelphia,Chicago Fire,1,1,Tie,67,1.97,39,1.15,67.7,0.0,82.5,20.0
+Toronto,Nashville SC,1,1,Tie,34,1.0,50,1.47,76.7,22.2,65.8,25.0
+New England,Nashville SC,0,0,Tie,42,1.24,50,1.47,76.7,22.2,74.1,33.3
+CF Montreal,Atlanta Utd,2,2,Tie,65,1.91,40,1.18,61.6,0.0,64.2,0.0
+Columbus Crew,DC United,2,4,Loss,46,1.35,27,0.79,64.0,40.0,73.2,0.0
+Philadelphia,Toronto,3,0,Win,67,1.97,34,1.0,65.8,25.0,82.5,20.0
+Chicago Fire,New York City,0,0,Tie,39,1.15,55,1.62,66.4,0.0,67.7,0.0
+New York RB,Cincinnati,0,0,Tie,53,1.56,49,1.44,69.6,30.0,65.5,0.0
+Orlando City,Inter Miami,1,1,Tie,48,1.41,48,1.41,66.7,0.0,66.4,0.0
+Austin,Houston Dynamo,3,2,Win,56,1.65,36,1.06,69.3,14.3,72.7,28.6
+Seattle,Dallas,1,1,Tie,41,1.21,53,1.56,75.9,28.6,74.8,14.3
+Los Angeles FC,Sporting KC,1,4,Loss,67,1.97,40,1.18,63.8,33.3,70.7,0.0
+Portland,SJ Earthquakes,1,1,Tie,46,1.35,35,1.03,66.1,0.0,69.9,50.0
+LA Galaxy,Real Salt Lake,1,0,Win,50,1.47,47,1.38,73.5,33.3,68.1,14.3
+Cincinnati,Orlando City,1,1,Tie,49,1.44,48,1.41,66.4,0.0,69.6,30.0
+Columbus Crew,Atlanta Utd,2,3,Loss,46,1.35,40,1.18,61.6,0.0,73.2,0.0
+Minnesota Utd,Houston Dynamo,2,0,Win,48,1.41,36,1.06,69.3,14.3,71.3,20.0
+Toronto,New York City,2,2,Tie,34,1.0,55,1.62,66.4,0.0,65.8,25.0
+Dallas,Austin,2,0,Win,53,1.56,56,1.65,72.7,28.6,75.9,28.6
+Colorado Rapids,Sporting KC,0,0,Tie,43,1.26,40,1.18,63.8,33.3,70.3,9.1
+Portland,Real Salt Lake,3,2,Win,46,1.35,47,1.38,73.5,33.3,69.9,50.0
+Chicago Fire,New York RB,2,1,Win,39,1.15,53,1.56,65.5,0.0,67.7,0.0
+Inter Miami,Nashville SC,2,1,Win,48,1.41,50,1.47,76.7,22.2,66.7,0.0
+New England,Philadelphia,2,1,Win,42,1.24,67,1.97,82.5,20.0,74.1,33.3
+SJ Earthquakes,Los Angeles FC,2,1,Win,35,1.03,67,1.97,70.7,0.0,66.1,0.0
+DC United,CF Montreal,2,1,Win,27,0.79,65,1.91,64.2,0.0,64.0,40.0
+LA Galaxy,Vancouver,1,1,Tie,50,1.47,43,1.26,64.4,28.6,68.1,14.3
+SJ Earthquakes,Vancouver,0,0,Tie,35,1.03,43,1.26,64.4,28.6,66.1,0.0
+Minnesota Utd,LA Galaxy,0,1,Loss,48,1.41,50,1.47,68.1,14.3,71.3,20.0
+CF Montreal,New York RB,2,1,Win,65,1.91,53,1.56,65.5,0.0,64.2,0.0
+New York City,Inter Miami,2,0,Win,55,1.62,48,1.41,66.7,0.0,66.4,0.0
+Toronto,New England,1,2,Loss,34,1.0,42,1.24,74.1,33.3,65.8,25.0
+Dallas,Sporting KC,0,2,Loss,53,1.56,40,1.18,63.8,33.3,75.9,28.6
+Houston Dynamo,Colorado Rapids,1,3,Loss,36,1.06,43,1.26,70.3,9.1,69.3,14.3
+Real Salt Lake,Austin,1,0,Win,47,1.38,56,1.65,72.7,28.6,73.5,33.3
+Atlanta Utd,Los Angeles FC,1,0,Win,40,1.18,67,1.97,70.7,0.0,61.6,0.0
+Chicago Fire,Columbus Crew,1,0,Win,39,1.15,46,1.35,73.2,0.0,67.7,0.0
+Nashville SC,DC United,5,2,Win,50,1.47,27,0.79,64.0,40.0,76.7,22.2
+Portland,Seattle,2,6,Loss,46,1.35,41,1.21,74.8,14.3,69.9,50.0
+LA Galaxy,Colorado Rapids,1,2,Loss,50,1.47,43,1.26,70.3,9.1,68.1,14.3
+SJ Earthquakes,Minnesota Utd,1,1,Tie,35,1.03,48,1.41,71.3,20.0,66.1,0.0
+Atlanta Utd,Toronto,1,0,Win,40,1.18,34,1.0,65.8,25.0,61.6,0.0
+New England,DC United,3,2,Win,42,1.24,27,0.79,64.0,40.0,74.1,33.3
+Cincinnati,CF Montreal,0,0,Tie,49,1.44,65,1.91,64.2,0.0,69.6,30.0
+Inter Miami,Chicago Fire,3,2,Win,48,1.41,39,1.15,67.7,0.0,66.7,0.0
+Philadelphia,New York City,1,0,Win,67,1.97,55,1.62,66.4,0.0,82.5,20.0
+New York RB,Columbus Crew,1,0,Win,53,1.56,46,1.35,73.2,0.0,65.5,0.0
+Dallas,Seattle,0,1,Loss,53,1.56,41,1.21,74.8,14.3,75.9,28.6
+Nashville SC,Orlando City,1,1,Tie,50,1.47,48,1.41,66.4,0.0,76.7,22.2
+Sporting KC,Portland,1,1,Tie,40,1.18,46,1.35,69.9,50.0,63.8,33.3
+Austin,Vancouver,1,2,Loss,56,1.65,43,1.26,64.4,28.6,72.7,28.6
+Real Salt Lake,Houston Dynamo,2,1,Win,47,1.38,36,1.06,69.3,14.3,73.5,33.3
+LA Galaxy,SJ Earthquakes,1,2,Loss,50,1.47,35,1.03,66.1,0.0,68.1,14.3
+Minnesota Utd,Sporting KC,0,0,Tie,48,1.41,40,1.18,63.8,33.3,71.3,20.0
+Columbus Crew,Seattle,1,2,Loss,46,1.35,41,1.21,74.8,14.3,73.2,0.0
+DC United,Atlanta Utd,1,2,Loss,27,0.79,40,1.18,61.6,0.0,64.0,40.0
+Inter Miami,Toronto,3,1,Win,48,1.41,34,1.0,65.8,25.0,66.7,0.0
+New England,Cincinnati,4,1,Win,42,1.24,49,1.44,69.6,30.0,74.1,33.3
+Orlando City,Chicago Fire,1,0,Win,48,1.41,39,1.15,67.7,0.0,66.4,0.0
+Philadelphia,CF Montreal,1,1,Tie,67,1.97,65,1.91,64.2,0.0,82.5,20.0
+Houston Dynamo,Dallas,2,2,Tie,36,1.06,53,1.56,75.9,28.6,69.3,14.3
+Austin,Portland,3,1,Win,56,1.65,46,1.35,69.9,50.0,72.7,28.6
+Colorado Rapids,Real Salt Lake,2,1,Win,43,1.26,47,1.38,73.5,33.3,70.3,9.1
+Vancouver,Los Angeles FC,2,1,Win,43,1.26,67,1.97,70.7,0.0,64.4,28.6
+Columbus Crew,Cincinnati,3,2,Win,46,1.35,49,1.44,69.6,30.0,73.2,0.0
+CF Montreal,Toronto,3,1,Win,65,1.91,34,1.0,65.8,25.0,64.2,0.0
+Orlando City,Inter Miami,0,0,Tie,48,1.41,48,1.41,66.7,0.0,66.4,0.0
+Atlanta Utd,Nashville SC,0,2,Loss,40,1.18,50,1.47,76.7,22.2,61.6,0.0
+New York RB,Chicago Fire,0,1,Loss,53,1.56,39,1.15,67.7,0.0,65.5,0.0
+Los Angeles FC,LA Galaxy,3,3,Tie,67,1.97,50,1.47,68.1,14.3,70.7,0.0
+New York City,New England,2,0,Win,55,1.62,42,1.24,74.1,33.3,66.4,0.0
+DC United,Philadelphia,3,1,Win,27,0.79,67,1.97,82.5,20.0,64.0,40.0
+Houston Dynamo,Minnesota Utd,1,2,Loss,36,1.06,48,1.41,71.3,20.0,69.3,14.3
+Sporting KC,Colorado Rapids,1,1,Tie,40,1.18,43,1.26,70.3,9.1,63.8,33.3
+Austin,Dallas,3,5,Loss,56,1.65,53,1.56,75.9,28.6,72.7,28.6
+Vancouver,Real Salt Lake,4,1,Win,43,1.26,47,1.38,73.5,33.3,64.4,28.6
+Seattle,Portland,0,2,Loss,41,1.21,46,1.35,69.9,50.0,74.8,14.3
+Nashville SC,New York City,3,1,Win,50,1.47,55,1.62,66.4,0.0,76.7,22.2
+Philadelphia,New England,0,1,Loss,67,1.97,42,1.24,74.1,33.3,82.5,20.0
+Houston Dynamo,Portland,0,2,Loss,36,1.06,46,1.35,69.9,50.0,69.3,14.3
+Los Angeles FC,Sporting KC,4,0,Win,67,1.97,40,1.18,63.8,33.3,70.7,0.0
+Vancouver,Austin,2,1,Win,43,1.26,56,1.65,72.7,28.6,64.4,28.6
+Orlando City,Columbus Crew,3,2,Win,48,1.41,46,1.35,73.2,0.0,66.4,0.0
+Cincinnati,Inter Miami,0,1,Loss,49,1.44,48,1.41,66.7,0.0,69.6,30.0
+Real Salt Lake,Dallas,3,2,Win,47,1.38,53,1.56,75.9,28.6,73.5,33.3
+SJ Earthquakes,Colorado Rapids,0,1,Loss,35,1.03,43,1.26,70.3,9.1,66.1,0.0
+Atlanta Utd,Orlando City,3,0,Win,40,1.18,48,1.41,66.4,0.0,61.6,0.0
+Vancouver,Portland,0,1,Loss,43,1.26,46,1.35,69.9,50.0,64.4,28.6
+Colorado Rapids,LA Galaxy,1,1,Tie,43,1.26,50,1.47,68.1,14.3,70.3,9.1
+Seattle,Minnesota Utd,1,0,Win,41,1.21,48,1.41,71.3,20.0,74.8,14.3
+New England,New York City,2,1,Win,42,1.24,55,1.62,66.4,0.0,74.1,33.3
+New York RB,DC United,1,1,Tie,53,1.56,27,0.79,64.0,40.0,65.5,0.0
+CF Montreal,Nashville SC,0,1,Loss,65,1.91,50,1.47,76.7,22.2,64.2,0.0
+Cincinnati,Toronto,2,0,Win,49,1.44,34,1.0,65.8,25.0,69.6,30.0
+Inter Miami,Columbus Crew,1,0,Win,48,1.41,46,1.35,73.2,0.0,66.7,0.0
+Dallas,SJ Earthquakes,1,1,Tie,53,1.56,35,1.03,66.1,0.0,75.9,28.6
+Houston Dynamo,Austin,3,0,Win,36,1.06,56,1.65,72.7,28.6,69.3,14.3
+Sporting KC,Chicago Fire,2,0,Win,40,1.18,39,1.15,67.7,0.0,63.8,33.3
+Los Angeles FC,Real Salt Lake,3,2,Win,67,1.97,47,1.38,73.5,33.3,70.7,0.0
+Columbus Crew,New York RB,2,1,Win,46,1.35,53,1.56,65.5,0.0,73.2,0.0
+New York City,Dallas,3,3,Tie,55,1.62,53,1.56,75.9,28.6,66.4,0.0
+Toronto,Inter Miami,0,1,Loss,34,1.0,48,1.41,66.7,0.0,65.8,25.0
+Atlanta Utd,Cincinnati,4,0,Win,40,1.18,49,1.44,69.6,30.0,61.6,0.0
+DC United,Chicago Fire,3,0,Win,27,0.79,39,1.15,67.7,0.0,64.0,40.0
+Orlando City,CF Montreal,2,4,Loss,48,1.41,65,1.91,64.2,0.0,66.4,0.0
+Sporting KC,Minnesota Utd,4,0,Win,40,1.18,48,1.41,71.3,20.0,63.8,33.3
+Austin,Los Angeles FC,1,2,Loss,56,1.65,67,1.97,70.7,0.0,72.7,28.6
+Portland,Colorado Rapids,2,2,Tie,46,1.35,43,1.26,70.3,9.1,69.9,50.0
+LA Galaxy,Houston Dynamo,1,1,Tie,50,1.47,36,1.06,69.3,14.3,68.1,14.3
+SJ Earthquakes,Real Salt Lake,3,4,Loss,35,1.03,47,1.38,73.5,33.3,66.1,0.0
+Inter Miami,New York RB,0,4,Loss,48,1.41,53,1.56,65.5,0.0,66.7,0.0
+Atlanta Utd,DC United,3,2,Win,40,1.18,27,0.79,64.0,40.0,61.6,0.0
+New England,Columbus Crew,1,1,Tie,42,1.24,46,1.35,73.2,0.0,74.1,33.3
+Cincinnati,New York City,1,2,Loss,49,1.44,55,1.62,66.4,0.0,69.6,30.0
+Toronto,Nashville SC,2,1,Win,34,1.0,50,1.47,76.7,22.2,65.8,25.0
+Austin,SJ Earthquakes,3,4,Loss,56,1.65,35,1.03,66.1,0.0,72.7,28.6
+Minnesota Utd,LA Galaxy,3,0,Win,48,1.41,50,1.47,68.1,14.3,71.3,20.0
+Houston Dynamo,Dallas,3,2,Win,36,1.06,53,1.56,75.9,28.6,69.3,14.3
+Real Salt Lake,Seattle,1,0,Win,47,1.38,41,1.21,74.8,14.3,73.5,33.3
+CF Montreal,Chicago Fire,2,0,Win,65,1.91,39,1.15,67.7,0.0,64.2,0.0
+Philadelphia,Orlando City,3,1,Win,67,1.97,48,1.41,66.4,0.0,82.5,20.0
+Portland,Los Angeles FC,2,1,Win,46,1.35,67,1.97,70.7,0.0,69.9,50.0
+Colorado Rapids,Vancouver,1,1,Tie,43,1.26,43,1.26,64.4,28.6,70.3,9.1
+Inter Miami,Nashville SC,1,5,Loss,48,1.41,50,1.47,76.7,22.2,66.7,0.0
+Chicago Fire,New England,2,3,Loss,39,1.15,42,1.24,74.1,33.3,67.7,0.0
+New York RB,New York City,1,1,Tie,53,1.56,55,1.62,66.4,0.0,65.5,0.0
+Philadelphia,Atlanta Utd,1,0,Win,67,1.97,40,1.18,61.6,0.0,82.5,20.0
+New England,Orlando City,2,1,Win,42,1.24,48,1.41,66.4,0.0,74.1,33.3
+Columbus Crew,CF Montreal,2,1,Win,46,1.35,65,1.91,64.2,0.0,73.2,0.0
+DC United,Cincinnati,4,2,Win,27,0.79,49,1.44,69.6,30.0,64.0,40.0
+Colorado Rapids,Toronto,0,0,Tie,43,1.26,34,1.0,65.8,25.0,70.3,9.1
+Minnesota Utd,Houston Dynamo,2,0,Win,48,1.41,36,1.06,69.3,14.3,71.3,20.0
+New York City,New York RB,0,1,Loss,55,1.62,53,1.56,65.5,0.0,66.4,0.0
+SJ Earthquakes,Los Angeles FC,2,0,Win,35,1.03,67,1.97,70.7,0.0,66.1,0.0
+Vancouver,Dallas,1,0,Win,43,1.26,53,1.56,75.9,28.6,64.4,28.6
+Portland,Real Salt Lake,6,1,Win,46,1.35,47,1.38,73.5,33.3,69.9,50.0
+Chicago Fire,Nashville SC,0,0,Tie,39,1.15,50,1.47,76.7,22.2,67.7,0.0
+Sporting KC,Seattle,1,2,Loss,40,1.18,41,1.21,74.8,14.3,63.8,33.3
+Austin,LA Galaxy,2,0,Win,56,1.65,50,1.47,68.1,14.3,72.7,28.6
+Atlanta Utd,Inter Miami,1,0,Win,40,1.18,48,1.41,66.7,0.0,61.6,0.0
+Toronto,Cincinnati,3,2,Win,34,1.0,49,1.44,69.6,30.0,65.8,25.0
+CF Montreal,New England,1,4,Loss,65,1.91,42,1.24,74.1,33.3,64.2,0.0
+DC United,Minnesota Utd,3,1,Win,27,0.79,48,1.41,71.3,20.0,64.0,40.0
+New York RB,Philadelphia,1,1,Tie,53,1.56,67,1.97,82.5,20.0,65.5,0.0
+Chicago Fire,New York City,2,0,Win,39,1.15,55,1.62,66.4,0.0,67.7,0.0
+Dallas,Sporting KC,1,3,Loss,53,1.56,40,1.18,63.8,33.3,75.9,28.6
+Nashville SC,Orlando City,2,2,Tie,50,1.47,48,1.41,66.4,0.0,76.7,22.2
+Colorado Rapids,Austin,3,0,Win,43,1.26,56,1.65,72.7,28.6,70.3,9.1
+Houston Dynamo,Vancouver,0,0,Tie,36,1.06,43,1.26,64.4,28.6,69.3,14.3
+Real Salt Lake,LA Galaxy,2,1,Win,47,1.38,50,1.47,68.1,14.3,73.5,33.3
+Los Angeles FC,Portland,1,2,Loss,67,1.97,46,1.35,69.9,50.0,70.7,0.0
+SJ Earthquakes,Seattle,1,3,Loss,35,1.03,41,1.21,74.8,14.3,66.1,0.0
+Austin,Real Salt Lake,2,1,Win,56,1.65,47,1.38,73.5,33.3,72.7,28.6
+CF Montreal,Atlanta Utd,2,1,Win,65,1.91,40,1.18,61.6,0.0,64.2,0.0
+Cincinnati,New York RB,0,1,Loss,49,1.44,53,1.56,65.5,0.0,69.6,30.0
+Orlando City,DC United,2,1,Win,48,1.41,27,0.79,64.0,40.0,66.4,0.0
+Dallas,Minnesota Utd,0,0,Tie,53,1.56,48,1.41,71.3,20.0,75.9,28.6
+Vancouver,SJ Earthquakes,3,0,Win,43,1.26,35,1.03,66.1,0.0,64.4,28.6
+New York City,Nashville SC,0,0,Tie,55,1.62,50,1.47,76.7,22.2,66.4,0.0
+Philadelphia,Columbus Crew,3,0,Win,67,1.97,46,1.35,73.2,0.0,82.5,20.0
+Sporting KC,Houston Dynamo,4,2,Win,40,1.18,36,1.06,69.3,14.3,63.8,33.3
+Toronto,Chicago Fire,3,1,Win,34,1.0,39,1.15,67.7,0.0,65.8,25.0
+Portland,Inter Miami,1,0,Win,46,1.35,48,1.41,66.7,0.0,69.9,50.0
+LA Galaxy,Los Angeles FC,1,1,Tie,50,1.47,67,1.97,70.7,0.0,68.1,14.3
+Seattle,Colorado Rapids,3,0,Win,41,1.21,43,1.26,70.3,9.1,74.8,14.3
+New York RB,Inter Miami,1,0,Win,53,1.56,48,1.41,66.7,0.0,65.5,0.0
+Cincinnati,Philadelphia,1,2,Loss,49,1.44,67,1.97,82.5,20.0,69.6,30.0
+Seattle,Vancouver,4,1,Win,41,1.21,43,1.26,64.4,28.6,74.8,14.3
+Minnesota Utd,Colorado Rapids,1,3,Loss,48,1.41,43,1.26,70.3,9.1,71.3,20.0
+CF Montreal,Philadelphia,2,2,Tie,65,1.91,67,1.97,82.5,20.0,64.2,0.0
+Los Angeles FC,SJ Earthquakes,3,1,Win,67,1.97,35,1.03,66.1,0.0,70.7,0.0
+Columbus Crew,Inter Miami,4,0,Win,46,1.35,48,1.41,66.7,0.0,73.2,0.0
+New England,Chicago Fire,2,2,Tie,42,1.24,39,1.15,67.7,0.0,74.1,33.3
+Cincinnati,Orlando City,0,1,Loss,49,1.44,48,1.41,66.4,0.0,69.6,30.0
+DC United,Nashville SC,0,0,Tie,27,0.79,50,1.47,76.7,22.2,64.0,40.0
+Toronto,Atlanta Utd,0,2,Loss,34,1.0,40,1.18,61.6,0.0,65.8,25.0
+Houston Dynamo,Seattle,2,1,Win,36,1.06,41,1.21,74.8,14.3,69.3,14.3
+Austin,Minnesota Utd,0,1,Loss,56,1.65,48,1.41,71.3,20.0,72.7,28.6
+Real Salt Lake,Colorado Rapids,3,1,Win,47,1.38,43,1.26,70.3,9.1,73.5,33.3
+LA Galaxy,Portland,2,1,Win,50,1.47,46,1.35,69.9,50.0,68.1,14.3
+New York RB,New York City,1,0,Win,53,1.56,55,1.62,66.4,0.0,65.5,0.0
+Vancouver,Sporting KC,2,1,Win,43,1.26,40,1.18,63.8,33.3,64.4,28.6
+Atlanta Utd,New York City,1,1,Tie,40,1.18,55,1.62,66.4,0.0,61.6,0.0
+Cincinnati,Chicago Fire,3,4,Loss,49,1.44,39,1.15,67.7,0.0,69.6,30.0
+DC United,New England,2,3,Loss,27,0.79,42,1.24,74.1,33.3,64.0,40.0
+Inter Miami,Toronto,3,0,Win,48,1.41,34,1.0,65.8,25.0,66.7,0.0
+Orlando City,CF Montreal,1,1,Tie,48,1.41,65,1.91,64.2,0.0,66.4,0.0
+Dallas,Los Angeles FC,2,3,Loss,53,1.56,67,1.97,70.7,0.0,75.9,28.6
+Minnesota Utd,Philadelphia,3,2,Win,48,1.41,67,1.97,82.5,20.0,71.3,20.0
+Houston Dynamo,LA Galaxy,0,3,Loss,36,1.06,50,1.47,68.1,14.3,69.3,14.3
+Nashville SC,Columbus Crew,1,1,Tie,50,1.47,46,1.35,73.2,0.0,76.7,22.2
+Colorado Rapids,Seattle,1,1,Tie,43,1.26,41,1.21,74.8,14.3,70.3,9.1
+Portland,Vancouver,2,3,Loss,46,1.35,43,1.26,64.4,28.6,69.9,50.0
+SJ Earthquakes,Austin,4,0,Win,35,1.03,56,1.65,72.7,28.6,66.1,0.0
+Seattle,Sporting KC,1,2,Loss,41,1.21,40,1.18,63.8,33.3,74.8,14.3
+Columbus Crew,New York RB,1,2,Loss,46,1.35,53,1.56,65.5,0.0,73.2,0.0
+New York City,DC United,6,0,Win,55,1.62,27,0.79,64.0,40.0,66.4,0.0
+Philadelphia,Nashville SC,1,0,Win,67,1.97,50,1.47,76.7,22.2,82.5,20.0
+Toronto,CF Montreal,1,1,Tie,34,1.0,65,1.91,64.2,0.0,65.8,25.0
+Chicago Fire,Real Salt Lake,1,0,Win,39,1.15,47,1.38,73.5,33.3,67.7,0.0
+Inter Miami,Cincinnati,5,1,Win,48,1.41,49,1.44,69.6,30.0,66.7,0.0
+Minnesota Utd,Los Angeles FC,1,1,Tie,48,1.41,67,1.97,70.7,0.0,71.3,20.0
+Colorado Rapids,Portland,2,0,Win,43,1.26,46,1.35,69.9,50.0,70.3,9.1
+LA Galaxy,Dallas,2,2,Tie,50,1.47,53,1.56,75.9,28.6,68.1,14.3
+SJ Earthquakes,Vancouver,1,1,Tie,35,1.03,43,1.26,64.4,28.6,66.1,0.0
+Austin,Houston Dynamo,2,1,Win,56,1.65,36,1.06,69.3,14.3,72.7,28.6
+Orlando City,New England,2,2,Tie,48,1.41,42,1.24,74.1,33.3,66.4,0.0
+Los Angeles FC,Seattle,3,0,Win,67,1.97,41,1.21,74.8,14.3,70.7,0.0
+New England,Colorado Rapids,1,0,Win,42,1.24,43,1.26,70.3,9.1,74.1,33.3
+Atlanta Utd,Inter Miami,2,1,Win,40,1.18,48,1.41,66.7,0.0,61.6,0.0
+Cincinnati,Nashville SC,3,6,Loss,49,1.44,50,1.47,76.7,22.2,69.6,30.0
+Columbus Crew,Orlando City,3,2,Win,46,1.35,48,1.41,66.4,0.0,73.2,0.0
+DC United,New York RB,1,0,Win,27,0.79,53,1.56,65.5,0.0,64.0,40.0
+New York City,Chicago Fire,1,0,Win,55,1.62,39,1.15,67.7,0.0,66.4,0.0
+Toronto,Philadelphia,2,2,Tie,34,1.0,67,1.97,82.5,20.0,65.8,25.0
+Dallas,Real Salt Lake,1,2,Loss,53,1.56,47,1.38,73.5,33.3,75.9,28.6
+Sporting KC,LA Galaxy,2,0,Win,40,1.18,50,1.47,68.1,14.3,63.8,33.3
+Portland,SJ Earthquakes,2,0,Win,46,1.35,35,1.03,66.1,0.0,69.9,50.0
+Vancouver,Minnesota Utd,2,1,Win,43,1.26,48,1.41,71.3,20.0,64.4,28.6
+Inter Miami,New York City,1,3,Loss,48,1.41,55,1.62,66.4,0.0,66.7,0.0
+Real Salt Lake,SJ Earthquakes,3,4,Loss,47,1.38,35,1.03,66.1,0.0,73.5,33.3
+New York RB,CF Montreal,1,0,Win,53,1.56,65,1.91,64.2,0.0,65.5,0.0
+Atlanta Utd,Toronto,1,1,Tie,40,1.18,34,1.0,65.8,25.0,61.6,0.0
+DC United,Columbus Crew,1,3,Loss,27,0.79,46,1.35,73.2,0.0,64.0,40.0
+Dallas,Austin,2,1,Win,53,1.56,56,1.65,72.7,28.6,75.9,28.6
+Minnesota Utd,Sporting KC,2,1,Win,48,1.41,40,1.18,63.8,33.3,71.3,20.0
+Houston Dynamo,Colorado Rapids,0,1,Loss,36,1.06,43,1.26,70.3,9.1,69.3,14.3
+Orlando City,Nashville SC,1,1,Tie,48,1.41,50,1.47,76.7,22.2,66.4,0.0
+Philadelphia,Cincinnati,2,0,Win,67,1.97,49,1.44,69.6,30.0,82.5,20.0
+Seattle,LA Galaxy,1,1,Tie,41,1.21,50,1.47,68.1,14.3,74.8,14.3
+Los Angeles FC,Vancouver,1,1,Tie,67,1.97,43,1.26,64.4,28.6,70.7,0.0
+CF Montreal,Houston Dynamo,2,0,Win,65,1.91,36,1.06,69.3,14.3,64.2,0.0
+New York RB,Atlanta Utd,0,0,Tie,53,1.56,40,1.18,61.6,0.0,65.5,0.0
+Austin,Sporting KC,3,1,Win,56,1.65,40,1.18,63.8,33.3,72.7,28.6
+Real Salt Lake,Portland,1,3,Loss,47,1.38,46,1.35,69.9,50.0,73.5,33.3
+CF Montreal,Orlando City,0,2,Loss,65,1.91,48,1.41,66.4,0.0,64.2,0.0
+Cincinnati,Atlanta Utd,1,2,Loss,49,1.44,40,1.18,61.6,0.0,69.6,30.0
+Columbus Crew,Chicago Fire,2,0,Win,46,1.35,39,1.15,67.7,0.0,73.2,0.0
+Nashville SC,New York RB,1,1,Tie,50,1.47,53,1.56,65.5,0.0,76.7,22.2
+New England,Inter Miami,0,1,Loss,42,1.24,48,1.41,66.7,0.0,74.1,33.3
+New York City,Philadelphia,1,1,Tie,55,1.62,67,1.97,82.5,20.0,66.4,0.0
+Toronto,DC United,1,3,Loss,34,1.0,27,0.79,64.0,40.0,65.8,25.0
+Colorado Rapids,Los Angeles FC,5,2,Win,43,1.26,67,1.97,70.7,0.0,70.3,9.1
+LA Galaxy,Minnesota Utd,3,3,Tie,50,1.47,48,1.41,71.3,20.0,68.1,14.3
+Portland,Austin,3,0,Win,46,1.35,56,1.65,72.7,28.6,69.9,50.0
+SJ Earthquakes,Dallas,1,1,Tie,35,1.03,53,1.56,75.9,28.6,66.1,0.0
+Sporting KC,Real Salt Lake,0,1,Loss,40,1.18,47,1.38,73.5,33.3,63.8,33.3
+Vancouver,Seattle,1,1,Tie,43,1.26,41,1.21,74.8,14.3,64.4,28.6

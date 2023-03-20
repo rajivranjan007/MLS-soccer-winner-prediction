@@ -1,5 +1,9 @@
 MLS soccer- winner predictor- NLP
+here are site I used for data, I am using last two year data 2021,2022
+1.	https://www.soccerstats.com/latest.asp?league=usa
+2.	https://fbref.com/en/comps/22/2022/keepers/2022-Major-League-Soccer-Stats
  
+
 Dataset is continuous and target we are trying to predict is classification problem so using supervised model will be good for prediction which includes,
  
 Random forest
